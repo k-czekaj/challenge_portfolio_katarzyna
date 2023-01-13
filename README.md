@@ -19,7 +19,11 @@
 6. Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się spację a nie prawidłowe dane.
 7. Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się po jednym znaku, a nie prawidłowe dane.
 8. Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się znaki specjalne, np. "&", a nie prawidłowe dane.
-9. Przyciski "SUBMIT" i "CLEAR" pod formularzem dodawania gracza powinny być przetłumaczone na język polski.
-
+9. Formularz zapisuje do listy gracza, jeśli w polu "Data Urodzenia" wpiszę niemożliwą datę, czyli datę z przyszłości, brak ogranicznika daty.
+10. Przycisk "CLEAR" pod formularzem edycji gracza nie działa, po naciśnięciu dane nie są usuwane z formularza.
+11. Przyciski "SUBMIT" i "CLEAR" pod formularzem dodawania gracza powinny być przetłumaczone na język polski.
+12. Pod formularzem dodawania gracza brak przycisku "NIE ZAPISUJ ZMIAN".
+13. Po zapisaniu danych gracza strona nie odsyła do zakładki "Gracze" tylko przekierowuje do strony edycji.
+14. 
 
 PS. Podczas testowania nie zapomnij z korzystania z poznanych dzisiaj DEVTOOLSÓW
