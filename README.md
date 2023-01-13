@@ -14,16 +14,25 @@
 1. Na głównej stronie nie ma opcji dodawania nowego użytkownika. Istnieje tylko opcja zalogowania. Do weryfikacja czy to zamierzone.
 2. Na stronie logowania w języku polskim, nie jest przetłumaczony nagłówek "Scouts Panel". 
 3. Na głównej stronie w kafelku Scouts Panel - przycisk "Dev Team Contact" nie jest przetłumaczony na język polski.
-4. Bardziej intuicyjne byłoby umieszczenie funkcji dodawania nowego gracza w zakładce "Gracze".
-5. W formularzu dodawania gracza w polu "Główna Pozycja" przydałoby się rozwijane pole z propozycjami pozycji.
-6. Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się spację a nie prawidłowe dane.
-7. Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się po jednym znaku, a nie prawidłowe dane.
-8. Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się znaki specjalne, np. "&", a nie prawidłowe dane.
-9. Formularz zapisuje do listy gracza, jeśli w polu "Data Urodzenia" wpiszę niemożliwą datę, czyli datę z przyszłości, brak ogranicznika daty.
-10. Przycisk "CLEAR" pod formularzem edycji gracza nie działa, po naciśnięciu dane nie są usuwane z formularza.
-11. Przyciski "SUBMIT" i "CLEAR" pod formularzem dodawania gracza powinny być przetłumaczone na język polski.
-12. Pod formularzem dodawania gracza brak przycisku "NIE ZAPISUJ ZMIAN".
-13. Po zapisaniu danych gracza strona nie odsyła do zakładki "Gracze" tylko przekierowuje do strony edycji.
-14. 
+4. Na głównej stronie w zakładce "Aktywnosć" jest literówka, kafelek powinien mieć nagłówek "Aktywność".
+5. Bardziej intuicyjne byłoby umieszczenie funkcji dodawania nowego gracza w zakładce "Gracze".
+6. W formularzu dodawania gracza w polu "Główna Pozycja" przydałoby się rozwijane pole z propozycjami pozycji.
+7. Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się spację a nie prawidłowe dane.
+8. Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się po jednym znaku, a nie dane w prawidłowym formacie.
+9. Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się znaki specjalne, np. "&", a nie prawidłowe dane.
+10. Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się cyfry, np. "1", a nie dane w prawidłowym formacie.
+11. Formularz zapisuje do listy gracza, jeśli w polu "Główna pozycja" wpiszę się cyfry, np. "1", a nie dane w prawidłowym formacie.
+12. Formularz zapisuje do listy gracza, jeśli w polu "Data Urodzenia" wpiszę niemożliwą datę, czyli datę z przyszłości, np. 20.02.2023 lub z bardzo dalekiej przeszłości, np. 02.02.0001, brak ogranicznika daty.
+13. Formularz zapisuje do listy gracza, nawet jeśli wpiszemy identyczne dane, jak poprzedniego gracza.
+14. Formularz zapisuje niemożliwe dane w polu "Waga" i "Wiek", istnieje możliwość dodania minusowych wartości.
+15. Formularz zapisuje niemożliwe dane w polu "Telefon", istnieje możliwość dodania znaków specjalnych, np. &, liter, np. a i spacji.
+16. Po wpisaniu do formularza w polu "E-mail" maila w nieprawidłowym formacie (bez "@") wyskakuje komunikat "Nie udało się dodać gracza.", ale pole e-mail nie podkreśla się na czerwono, więc nie wiadomo czego dokładnie dotyczy błąd.
+17. Przycisk "CLEAR" pod formularzem edycji gracza nie działa zgodnie z logicznym opisem, po naciśnięciu dane wracają do wersji przed edycją.
+18. Przyciski "SUBMIT" i "CLEAR" pod formularzem dodawania gracza powinny być przetłumaczone na język polski.
+20. Brak możliwości usunięcia gracza z listy graczy.
+21. Pod formularzem dodawania gracza brak przycisku "NIE ZAPISUJ ZMIAN".
+22. Po zapisaniu danych gracza strona nie odsyła do zakładki "Gracze" tylko przekierowuje do strony edycji.
+23. Dodawanie informacji o meczach i raportów doyczących zawodnika jest nieintuicyjne.
+24. 
 
 PS. Podczas testowania nie zapomnij z korzystania z poznanych dzisiaj DEVTOOLSÓW
