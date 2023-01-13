@@ -1,9 +1,8 @@
-# **Task 1**
+# |-**Task 1**-|
 ## **Subtask 1**
 9 punktów 🤸
 ## **Subtask 3**
-|=Dlaczego zdecydował_ś się na udział w challenge portfolio”? Zastanów się, dlaczego zdecydował_ś się na udział w projekcie? Co Tobą kierowało? Jaki jest Twój cel? Jakie są Twoje oczekiwania wobec projektu? Napisz dosłownie kilka zdań :)=|
-
+Dlaczego zdecydował_ś się na udział w challenge portfolio”? Zastanów się, dlaczego zdecydował_ś się na udział w projekcie? Co Tobą kierowało? Jaki jest Twój cel? Jakie są Twoje oczekiwania wobec projektu? Napisz dosłownie kilka zdań :)
 
 **Kasia**
 ## **Subtask 4**
