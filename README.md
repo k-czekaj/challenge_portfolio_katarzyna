@@ -94,26 +94,33 @@
     * Napis w wyszukiwarce, tj. Search nie jest przetłumaczony na język polski.
     * Nazwy funkcji Downolad CSV, Print, View Columns, Filter Table nie są przetłumaczone na język polski.
     * W funckji Filter Table napisy Filters, Age, Rate nie są przetłumaczone na język polski.
+  * MECZE
+    * Brak możliwości wygenerowania raportu z meczu, jeśli gracz nie ma danych w polu "Województwo". Komunikat: "Brakujące dane gracza. Pole "Województwo" jest wymagane do stworzenia raportu." W formularzu dodawania gracza brak gwiazdki przy polu "Województwo".
+    * Strona Mecze nie jest responsywna.
+  * DODAWANIE MECZU
+    *  Formularz zapisuje mecz, jeśli w polach "Zdobyte gole" i "Stracone gole" zostanie wprowadzona niemożliwa liczba, np. 9999, brak limitu liczby goli.
+  * ROZPOCZNIJ MECZ
+    * Strona Rozpocznij mecz nie jest responsywna.
+  * EDYCJA MECZU
+    *  W kafelku z nagłówkiem "Lista zdarzeń", podania są opisywane w niewłaściwym formacie, np. "meta._id, meta.createdAt, meta.updatedAt, meta.match, Głową, Z prowadzenia, W poprzek" lub 	"meta._id, meta.createdAt, meta.updatedAt, meta.match, Faulowany".
+    *  Po edycji danych meczu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "MECZE".
+  * RAPORTY
+    * Strona Raporty nie jest responsywna.
+    * Po dodaniu nowego raportu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "RAPORTY".
+  * EDYCJA RAPORTU
+    * Teskt przycisku "SAVE" nie jest przetłumaczony na język polski.
+    * Po edycji danych raportu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "RAPORTY".
 
-  
-  * Dodawanie informacji o meczach i raportów doyczących zawodnika jest nieintuicyjne.
-  * Funkcjonalność "Rozpocznij mecz" jest dla mnie nieintuicyjna. Nie ma opisu i nie wiem, jak działa to rozgrywanie meczu. Czy tu się zapisuje rozegrane mecze w formie graficznej czy hipotetyczne? Do tego nie ma opisów nad przyciskami, więc nei wiem czego dotyczą. Nie rozumiem jak działają te funkcjonalności po wciśnięciu przycisku "Play" , nie umiem rozgryść tego bez opisu.
-  * Nie mogę wygenerować raportu z meczu bez wpisania danych gracza w polu "Województwo" chociaż w formularzu dodawania gracza nie ma tam gwiazdki. Komunikat: "Brakujące dane gracza. Pole "Województwo" jest wymagane do stworzenia raportu."
   * Przy otwarciu strony z edycją raportu meczowego przycisk "SAVE" rusza się po ekranie razem z przewijaniem strony w dół, często zasłaniając tekst.
   * Przycisk "SAVE" na stronie edycji raportu meczowego nie ejst przetłumaczony na język polski.
   * Strona raport meczowy nie wyświetla się na całym ekranie, żeby zobaczyć pełny raport trzeba przewinąć stronę w prawy bok.
   * w opisach pomocniczych pod nagłówkami w raportach meczowych licznie braki znaków inteprpunkcyjnych.
   * Po wejściu w Devtoolsy pojawia się komunikat - błąd 404 - GEThttps://scouts-test.futbolkolektyw.pl/pl/favicon.ico
-  * Strona "Mecze" nie jest responsywna.
-  * Strona "Raporty" nie jest responsywna.
   * Strona z edycją raportów nie jest responsywna.
-  * Strona z funkcją "Rozpocznij mecz" nie jest responsywna.
-  * Na stronie z fucnkją "Rozpocznij mecz" istnieje możliwość dodania nieskończonej ilości połówek, a w meczu mogą być maksymlanie 4 połowy (w przypadku dogrywki).
+
   
   
   * Jeśli nie zapiszemy meczu tylko opuścimy stronę, na głównej stronie pojawi się kafelek z tytułem "Niezapisany mecz" z przyciskiem "Wróc do raportu". Po kliknięciu w przycisk nic się nie dzieje, a w Devtools wyskakuje komunikat: Uncaught (in promise) Error: The provided `as` value (/pl/players/6026b48956c79737b3f3c624/reports/start) is incompatible with the `href` value (/players/[id]/reports/start). Read more: https://err.sh/vercel/next.js/incompatible-href-as
   * brak zakładki kontakt.
-  * Strona mecze nie mieści się w całym oknie przeglądarki.
-  * Pod edycją meczu jest kafelek z nagłówkiem "Lista zdarzeń", podania są opisywane w kolumnie z nagłówkiem "Meta dane". W tych kolumnach opisy kolejnych kroków są podane w niewłaściwym formacie, np. "meta._id, meta.createdAt, meta.updatedAt, meta.match, Głową, Z prowadzenia, W poprzek" lub 	"meta._id, meta.createdAt, meta.updatedAt, meta.match, Faulowany".
   * Poza zapisaniu edycji meczu, nie jesteśmy przekierowywani do strony z listą meczów, tylko zostajemy na stronie edycji.
   
