@@ -70,12 +70,25 @@
     * Treść przycisku "CLEAR" nie jest przetłumaczona na język polski.
     * Po zapisaniu danych gracza, strona przekierowuje do strony edycji. Strona powinna odesłać użytkownika do strony "Gracze".
   * Edycja gracza
+    * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone spacje.
+    * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone pojedyncze znaki, np. A, brak minimalnej ilości znaków.
+    * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone znaki specjalne, np. "&".
+    * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone cyfry, np. 1.
+    * Formularz zapisuje edycję danych gracza, jeśli w polu "Główna pozycja" zostaną wprowadzone cyfry, np. 1.
+    * Formularz zapisuje edycję danych gracza, jeśli w polu "Data Urodzenia" zostanie wprowadzona data z przyszłości, np. 20.02.2023 lub z bardzo dalekiej przeszłości, np. 02.02.0001, brak ogranicznika daty.
+    * Formularz zapisuje edycję danych gracza, jeśli zostaną wprowadzone identyczne dane, jak poprzedniego gracza.
+    * Formularz zapisuje edycję danych gracza, jeśli w polach "Waga" i "Wiek" zostaną wprowadzone minusowe wartości, np. -10.
+    * Formularz zapisuje edycję danych gracza, jeśli w polu "Telefon" zostaną wprowadzone znaki specjalne, np. &, litery, np. a i spacje.
+    * Formularz zapisuje edycję danych gracza, jeśli w polu "Telefon" zostanie wprowadzony jeden znak albo więcej niż dziewięć, brak ogranicznika znaków.
+    * Po wprowadzeniu do formularza w polu "E-mail" adresu e-mail w nieprawidłowym formacie (bez "@") wyskakuje komunikat "Nie udało się dodać gracza.", ale pole e-mail nie podkreśla się na czerwono. Brak czytelnego komunikatu czego dotyczy błąd zapisu formularza.
+    * Formularz zapisuje edycję danych gracza, jeśli w polu "Główna pozaycja" zostaną wprowadzone znaki specjalne, np. &, litery, np. a i spacje. W polu "Główna Pozycja" powinno znajdować się rozwijane pole ze wszystkimi możliwymi pozycjami na boisku.
+    * Formularz zapisuje edycję danych gracza, jeśli w polu "DODAJ LINK Z YOUTUBE" zostaną wprowadzone dane w innym formacie niż adres internetowy. Dane powinny być wprowadzane wg wzoru: https://wwww.XXX.XXX
     * Po naciśnięciu przycisku "CLEAR" dane wracają do wersji przed edycją, nie są wymazywane całkowicie. Do weryfikacji czy to błąd.
     * Treść przycisku "SUBMIT" nie jest przetłumaczona na język polski.
     * Treść przycisku "CLEAR" nie jest przetłumaczona na język polski.
     * Brak przycisku odpowiadającego za funkcję zapisywania bez zmian.
     * Po edycji danych gracza, pozostajemy na stronie edycji gracza. Strona powinna odesłać użytkownika do strony "Gracze".
-    * 
+  * Gracze 
     * Brak możliwości usunięcia gracza z listy graczy.
 
   
