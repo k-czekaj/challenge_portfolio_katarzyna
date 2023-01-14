@@ -9,7 +9,7 @@
 - Scouts Panel to aplikacja do analizowania informacji na temat młodych talentów piłki nożnej oraz ich wyników w rozgrywkach.
 - Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 - Funkcjonalności w aplikacji to 
-*logowanie, wylogowywanie, pokazywanie ostatnich aktywności w aplikacji, przeglądanie listy graczy, dodawanie nowych graczy, edycja danych dodanych graczy, 
+* logowanie, wylogowywanie, pokazywanie ostatnich aktywności w aplikacji, przeglądanie listy graczy, dodawanie nowych graczy, edycja danych dodanych graczy, 
 - Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 - Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
 - Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
