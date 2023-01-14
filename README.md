@@ -6,7 +6,7 @@
 
 **Kasia**
 ## **Subtask 4**
-- Scouts Panel to aplikacja do analizowania informacji na temat młodych talentów piłki nożnej oraz ich wyników w rozgrywkach.
+<p align="justify">- Scouts Panel to aplikacja do analizowania informacji na temat młodych talentów piłki nożnej oraz ich wyników w rozgrywkach.
 - Funkcjonalności w aplikacji to:
   * logowanie - służy do logowania się w aplikacji,
   * wylogowywanie - służy do wylogowywania się z aplikacji,
@@ -70,6 +70,7 @@
     * Treść przycisku "CLEAR" nie jest przetłumaczona na język polski.
     * Po zapisaniu danych gracza, strona przekierowuje do strony edycji. Strona powinna odesłać użytkownika do strony "Gracze".
   * EDYCJA GRACZA
+    * W Devtoolsach pojawia się komunikat - błąd 404 - GEThttps://scouts-test.futbolkolektyw.pl/pl/favicon.ico
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone spacje.
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone pojedyncze znaki, np. A, brak minimalnej ilości znaków.
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone znaki specjalne, np. "&".
@@ -101,26 +102,22 @@
     *  Formularz zapisuje mecz, jeśli w polach "Zdobyte gole" i "Stracone gole" zostanie wprowadzona niemożliwa liczba, np. 9999, brak limitu liczby goli.
   * ROZPOCZNIJ MECZ
     * Strona Rozpocznij mecz nie jest responsywna.
+    * Jeśli nie zapiszemy meczu tylko opuścimy stronę, na głównej stronie pojawi się kafelek z tytułem "Niezapisany mecz" z przyciskiem "Wróć do raportu". Po kliknięciu w przycisk nic się nie dzieje, a w Devtools wyskakuje komunikat: Uncaught (in promise) Error: The provided `as` value (/pl/players/6026b48956c79737b3f3c624/reports/start) is incompatible with the `href` value (/players/[id]/reports/start). Read more: https://err.sh/vercel/next.js/incompatible-href-as
   * EDYCJA MECZU
     *  W kafelku z nagłówkiem "Lista zdarzeń", podania są opisywane w niewłaściwym formacie, np. "meta._id, meta.createdAt, meta.updatedAt, meta.match, Głową, Z prowadzenia, W poprzek" lub 	"meta._id, meta.createdAt, meta.updatedAt, meta.match, Faulowany".
     *  Po edycji danych meczu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "MECZE".
   * RAPORTY
     * Strona Raporty nie jest responsywna.
+    * Raport nie dopasowuje się do ekranu, żeby zobaczyć go w całości musimy przewinąć stronę w prawy bok.
+    * Liczne błędy interpunkcyjne w opisach pomocniczych pod nagłówkami raportu.
     * Po dodaniu nowego raportu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "RAPORTY".
   * EDYCJA RAPORTU
     * Teskt przycisku "SAVE" nie jest przetłumaczony na język polski.
-    * Po edycji danych raportu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "RAPORTY".
-
-  * Przy otwarciu strony z edycją raportu meczowego przycisk "SAVE" rusza się po ekranie razem z przewijaniem strony w dół, często zasłaniając tekst.
-  * Przycisk "SAVE" na stronie edycji raportu meczowego nie ejst przetłumaczony na język polski.
-  * Strona raport meczowy nie wyświetla się na całym ekranie, żeby zobaczyć pełny raport trzeba przewinąć stronę w prawy bok.
-  * w opisach pomocniczych pod nagłówkami w raportach meczowych licznie braki znaków inteprpunkcyjnych.
-  * Po wejściu w Devtoolsy pojawia się komunikat - błąd 404 - GEThttps://scouts-test.futbolkolektyw.pl/pl/favicon.ico
-  * Strona z edycją raportów nie jest responsywna.
+    * Przycisk z napisem "SAVE" porusza się po ekranie wraz ze scrollowaniem strony. Przycisk zasłania teskt w trakcie przesuwania.
+    * Strona Edycja raportu nie jest responsywna.
+    * Raport nie dopasowuje się do ekranu, żeby zobaczyć go w całości musimy przewinąć stronę w prawy bok.
+    * Po edycji danych raportu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "RAPORTY".</p>
 
   
-  
-  * Jeśli nie zapiszemy meczu tylko opuścimy stronę, na głównej stronie pojawi się kafelek z tytułem "Niezapisany mecz" z przyciskiem "Wróc do raportu". Po kliknięciu w przycisk nic się nie dzieje, a w Devtools wyskakuje komunikat: Uncaught (in promise) Error: The provided `as` value (/pl/players/6026b48956c79737b3f3c624/reports/start) is incompatible with the `href` value (/players/[id]/reports/start). Read more: https://err.sh/vercel/next.js/incompatible-href-as
-  * brak zakładki kontakt.
-  * Poza zapisaniu edycji meczu, nie jesteśmy przekierowywani do strony z listą meczów, tylko zostajemy na stronie edycji.
+
   
