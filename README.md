@@ -7,7 +7,6 @@
 **Kasia**
 ## **Subtask 4**
 - Scouts Panel to aplikacja do analizowania informacji na temat młodych talentów piłki nożnej oraz ich wyników w rozgrywkach.
-- Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 - Funkcjonalności w aplikacji to:
   * logowanie - służy do logowania się w aplikacji,
   * wylogowywanie - służy do wylogowywania się z aplikacji,
@@ -18,32 +17,31 @@
   * pokazywanie ilości wszystkich akcji - licznik pokazujący sumę wszystkich akcji w aplikacji,
   * przeglądanie listy graczy - pokazywanie tabeli ze wszystkimi graczami oraz ich dane,
   * dodawanie nowych graczy - umożliwia użytkownikowi dodanie nowego gracza do listy,
-    * bla bla
+    * lokalizacja przycisku "DODAJ GRACZA" nie jest w intuicyjna, przycisk przekierowujący na stronę z dodawaniem nowego gracza znjaduje się na głównej stronie w kafelku z nagłówkiem "Linki pomocnicze", moja pierwsza myśl była taka, że dodawanie nowego gracza powinno znajdować się na liście graczy i tam najpierw szukałam;
   * wyszukiwanie graczy - pole do wpisywania danych szukanego gracza, w celu szybszego znalezienie go na liście graczy,
   * sortowanie danych graczy w poszczególnych kolumnach - sortowanie wartości w kolumnach alfabetycznie lub liczbowo,
-    * bla bla
+    * napis SORT pojawia się dopiero po najechaniu na nagłówek, którejś z kolumn; bardziej intuicyjne byłoby dodanie strzałki od razu przy każdym nagłówku, aktualnie strzałka pojawia się dopiero po kliknięciu na nagłówek kolumny;
   * filtrowanie tabeli z listą graczy - umożliwia filtrowanie danych w tabeli potakich danych jak: Imię, Nazwisko, Age, Pozycja, Klub, Rate;
   * wybór kolumn wyświetlanych w tabeli z listą graczy - umożliwia wybór tego, z których kolumn chcemy oglądać dane graczy;
   * drukowanie listy graczy - umożliwia wydrukowanie listy graczy,
   * ściaganie pliku CSV z listą graczy - umożliwia pobranie pliku z listą graczy w formacie CSV na swój komputer,
   * edycja danych dodanych graczy - umożliwia edytowanie danych znajdujących się na liście graczy,
-    * bla bla
+    * sposób przeniesienia na stronę edycji zawodnika jest nieintuicyjny, po najechaniu na zawodnika nic się nie podświetla, nie pojawia się żaden napis sugerujący, że musimy kliknąć na gracza; bardziej intuicyjne byłoby dodanie ikony ołówka na końcu wiersza, tj. w przypadku listy meczy i raportów;
   * zmiana języka aplikacji na angielski - umożliwia zmianę języka aplikacji z polskiego na angielski,
   * przekierowywanie do wspólnego kanału komunikacji na Slacku - umożliwia znalezienie kanału komunikacji na Slacku,
-    * bla bla
+    * lokalizacja przycisku kontaktowego oraz jego opis nie jest intuicyjny; pierwszą myślą było to, że po jego kliknięciu zostanę przekierowana do strony kontaktowej, formularza kontaktowego albo e-maila, bezpośredniego przekierowanie do Slacka trochę mnie zaskoczyło; wydaje mi się, że lepszym pomysłem byłoby stworzenie podstrony z tytułem "KONTAKT", gdzie byłyby opisane formy kontaktu;
   * przeglądanie listy meczy danego zawodnika - pokazywanie tabeli ze wszystkimi meczami rozegranymi przez danego gracza oraz dane o nich,
-    * bla bla
+    * ścieżka dojścia do zakładki "MECZE" jest nieintuicyjna, musimy najpierw wejść w listę graczy -> kliknąć na konkretnego gracza -> zostajemy przekierowani do edycji danych -> na panelu po lewej stronie pokazuje się opcja kliknięcia na zakładkę "MECZE"; bardziej intuicyjne byłoby zlokalizowanie przycisku przekierowaującego do zakładki mecze pod danymi gracza;
   * dodawanie meczy rozegranych przez danego zawodnika - umożliwia użytkownikowi dodanie nowego meczu rozegranego przez danego zawodnika do listy meczy,
   * edycja meczy danego zawodnika - umożliwia edytowanie danych znajdujących się w meczu danego zawodnika,
   * przeglądanie listy raportów z meczy danego zawodnika - pokazywanie tabeli ze wszystkimi raportami z meczy danego gracza oraz dane o nich,
-    * bla bla
+    * ścieżka dojścia do zakładki "RAPORTY" jest nieintuicyjna, musimy najpierw wejść w listę graczy -> kliknąć na konkretnego gracza -> zostajemy przekierowani do edycji danych -> na panelu po lewej stronie pokazuje się opcja kliknięcia na zakładkę "RAPORTY"; bardziej intuicyjne byłoby zlokalizowanie przycisku przekierowaującego do zakładki mecze pod danymi gracza;
   * dodawanie raportów - umożliwia użytkownikowi dodanie nowego raportu z rozegranego przez danego zawodnika meczu,
   * edycja raportów - umożliwia edytowanie danych znajdujących się w raportach,
-    * bla bla
   * rozgrywanie meczy w formie interaktywnej grafiki - umożliwia rozegranie meczu poprzez klikanie na grafikę boiska, pozwala na dodawanie zdarzeń meczowych, np. faul, strzały, podanie długie; pozwala na granie, pauzowanie, zmianę połówek, cofanie zdarzenia, eksport raportu z meczu i kasowanie meczu;
-    * bla bla
+    * próbowałam analizować tę funkcjonalność kilka razy i dalej jej nie rozumiem, nie mam najmniejszego pojęcia jak poprawnie rozegrać mecz i po co; zdecydowanie brakuje jakieś krótkiej instrukcji dotyczącej obsługi tego narzędzia;
   * pokazywanie informacji o niezapisanym meczu - pokazywanie na głównej stronie kafelka z informacją o niezapisanym meczu.
-    * bla bla
+    * nie rozumiem dlaczego ta funkcjonalność pojawia się na głównej stronie; bardziej intuicyjny byłby komunikat pokazujący się na ekranie przy próbie opuszczenia strony z rozgrywanym meczem;
 - Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 - Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
 - Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
