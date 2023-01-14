@@ -25,6 +25,7 @@
   * drukowanie listy graczy,
   * ściaganie pliku CSV z listą graczy,
   * edycja danych dodanych graczy,
+    * bla bla
   * zmiana języka aplikacji na angielski,
   * przekierowywanie do wspólnego kanału komunikacji na Slacku,
   * przeglądanie listy meczy danego zawodnika,
