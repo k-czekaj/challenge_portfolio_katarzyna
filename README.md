@@ -11,14 +11,14 @@
 - Funkcjonalności w aplikacji to:
   * logowanie - służy do logowania się w aplikacji,
   * wylogowywanie - służy do wylogowywania się z aplikacji,
-  * pokazywanie ostatnich aktywności w aplikacji - służy do pokazywania ostatnich stworzonych graczy, raportów, meczy oraz ostatnich aktualizacji graczy, raportów, meczy. Umożliwia przeniesienie się za pomocą przycisków do tych aktywności.
+  * pokazywanie ostatnich aktywności w aplikacji - służy do pokazywania ostatnich dodanych graczy, raportów, meczy oraz ostatnich aktualizacji graczy, raportów, meczy. Umożliwia przeniesienie się za pomocą przycisków do tych aktywności.
   * pokazywanie ilości wszystkich graczy - licznik pokazujący sumę wszystkich graczy w aplikacji,
   * pokazywanie ilości wszystkich meczy - licznik pokazujący sumę wszystkich meczy w aplikacji,
   * pokazywanie ilości wszystkich raportów - licznik pokazujący sumę wszystkich raportów w aplikacji,
   * pokazywanie ilości wszystkich akcji - licznik pokazujący sumę wszystkich akcji w aplikacji,
-  * przeglądanie listy graczy - tabele ze wszystkimi graczami oraz ich dane,
-  * dodawanie nowych graczy, 
-  * wyszukiwanie graczy,
+  * przeglądanie listy graczy - pokazywanie tabeli ze wszystkimi graczami oraz ich dane,
+  * dodawanie nowych graczy - umożliwia użytkownikowi dodanie nowego gracza do listy,
+  * wyszukiwanie graczy - pole do wpisywania danych szukanego gracza, w celu szybszego znalezienie go na liście graczy,
   * sortowanie danych graczy w poszczególnych kolumnach,
   * filtrowanie tabeli z listą graczy,
   * wybór kolumn wyświetlanych w tabeli z listą graczy,
