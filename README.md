@@ -90,6 +90,7 @@
     * Po edycji danych gracza, pozostajemy na stronie edycji gracza. Strona powinna odesłać użytkownika do strony "Gracze".
   * GRACZE
     * Brak możliwości usunięcia gracza z listy graczy.
+    * Opisy funkcji tabeli, tj. Download CSV, Print, View Columns, Filter Table nie są przetłumaczone na język polski.
 
   
   * Dodawanie informacji o meczach i raportów doyczących zawodnika jest nieintuicyjne.
@@ -99,14 +100,13 @@
   * Przycisk "SAVE" na stronie edycji raportu meczowego nie ejst przetłumaczony na język polski.
   * Strona raport meczowy nie wyświetla się na całym ekranie, żeby zobaczyć pełny raport trzeba przewinąć stronę w prawy bok.
   * w opisach pomocniczych pod nagłówkami w raportach meczowych licznie braki znaków inteprpunkcyjnych.
-  * Wywołanie edycji gracza już istniejącego na liście Gracze nie jest intuicyjna. Po najechaniu na konkretnego gracza nie pojawia się informacja o edycji ani wybrany gracz się nie podświetla. Dopiero naciśnięcie (bez żadnej podpowiedzi) przekierowuje nas do edycji danych gracza.
   * Po wejściu w Devtoolsy pojawia się komunikat - błąd 404 - GEThttps://scouts-test.futbolkolektyw.pl/pl/favicon.ico
   * Strona "Mecze" nie jest responsywna.
   * Strona "Raporty" nie jest responsywna.
   * Strona z edycją raportów nie jest responsywna.
   * Strona z funkcją "Rozpocznij mecz" nie jest responsywna.
   * Na stronie z fucnkją "Rozpocznij mecz" istnieje możliwość dodania nieskończonej ilości połówek, a w meczu mogą być maksymlanie 4 połowy (w przypadku dogrywki).
-  * Opisy funkcji na stronie "Gracze" nie zostały przetłumaczone na język polski, tj. Download CSV, Print, View Columns, Filter Table.
+  * 
   * Na stronie "Gracze" napis w wyszukiwarce nie został przetłumaczony na język polski, tj. Search.
   * Jeśli nie zapiszemy meczu tylko opuścimy stronę, na głównej stronie pojawi się kafelek z tytułem "Niezapisany mecz" z przyciskiem "Wróc do raportu". Po kliknięciu w przycisk nic się nie dzieje, a w Devtools wyskakuje komunikat: Uncaught (in promise) Error: The provided `as` value (/pl/players/6026b48956c79737b3f3c624/reports/start) is incompatible with the `href` value (/players/[id]/reports/start). Read more: https://err.sh/vercel/next.js/incompatible-href-as
   * brak zakładki kontakt.
