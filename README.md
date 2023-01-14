@@ -87,10 +87,13 @@
     * Treść przycisku "SUBMIT" nie jest przetłumaczona na język polski.
     * Treść przycisku "CLEAR" nie jest przetłumaczona na język polski.
     * Brak przycisku odpowiadającego za funkcję zapisywania bez zmian.
-    * Po edycji danych gracza, pozostajemy na stronie edycji gracza. Strona powinna odesłać użytkownika do strony "Gracze".
+    * Po edycji danych gracza, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "Gracze".
   * GRACZE
     * Brak możliwości usunięcia gracza z listy graczy.
     * Opisy funkcji tabeli, tj. Download CSV, Print, View Columns, Filter Table nie są przetłumaczone na język polski.
+    * Napis w wyszukiwarce, tj. Search nie jest przetłumaczony na język polski.
+    * Nazwy funkcji Downolad CSV, Print, View Columns, Filter Table nie są przetłumaczone na język polski.
+    * W funckji Filter Table napisy Filters, Age, Rate nie są przetłumaczone na język polski.
 
   
   * Dodawanie informacji o meczach i raportów doyczących zawodnika jest nieintuicyjne.
@@ -106,12 +109,11 @@
   * Strona z edycją raportów nie jest responsywna.
   * Strona z funkcją "Rozpocznij mecz" nie jest responsywna.
   * Na stronie z fucnkją "Rozpocznij mecz" istnieje możliwość dodania nieskończonej ilości połówek, a w meczu mogą być maksymlanie 4 połowy (w przypadku dogrywki).
-  * 
-  * Na stronie "Gracze" napis w wyszukiwarce nie został przetłumaczony na język polski, tj. Search.
+  
+  
   * Jeśli nie zapiszemy meczu tylko opuścimy stronę, na głównej stronie pojawi się kafelek z tytułem "Niezapisany mecz" z przyciskiem "Wróc do raportu". Po kliknięciu w przycisk nic się nie dzieje, a w Devtools wyskakuje komunikat: Uncaught (in promise) Error: The provided `as` value (/pl/players/6026b48956c79737b3f3c624/reports/start) is incompatible with the `href` value (/players/[id]/reports/start). Read more: https://err.sh/vercel/next.js/incompatible-href-as
   * brak zakładki kontakt.
-  * brak przetłumaczenia na polski przycisku "DEV TEAM CONTACT", który przekierowuje do kanału na Slacku.
   * Strona mecze nie mieści się w całym oknie przeglądarki.
   * Pod edycją meczu jest kafelek z nagłówkiem "Lista zdarzeń", podania są opisywane w kolumnie z nagłówkiem "Meta dane". W tych kolumnach opisy kolejnych kroków są podane w niewłaściwym formacie, np. "meta._id, meta.createdAt, meta.updatedAt, meta.match, Głową, Z prowadzenia, W poprzek" lub 	"meta._id, meta.createdAt, meta.updatedAt, meta.match, Faulowany".
   * Poza zapisaniu edycji meczu, nie jesteśmy przekierowywani do strony z listą meczów, tylko zostajemy na stronie edycji.
-  * W Filtrach tabeli graczy nie jest przetłumaczony Age and Rate na język polski.
+  
