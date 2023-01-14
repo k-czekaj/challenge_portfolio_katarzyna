@@ -105,6 +105,9 @@
     * Jeśli nie zapiszemy meczu tylko opuścimy stronę, na głównej stronie pojawi się kafelek z tytułem "Niezapisany mecz" z przyciskiem "Wróć do raportu". Po kliknięciu w przycisk nic się nie dzieje, a w Devtools wyskakuje komunikat: Uncaught (in promise) Error: The provided `as` value (/pl/players/6026b48956c79737b3f3c624/reports/start) is incompatible with the `href` value (/players/[id]/reports/start). Read more: https://err.sh/vercel/next.js/incompatible-href-as
   * EDYCJA MECZU
     *  W kafelku z nagłówkiem "Lista zdarzeń", podania są opisywane w niewłaściwym formacie, np. "meta._id, meta.createdAt, meta.updatedAt, meta.match, Głową, Z prowadzenia, W poprzek" lub 	"meta._id, meta.createdAt, meta.updatedAt, meta.match, Faulowany".
+    * Treść przycisku "SUBMIT" nie jest przetłumaczona na język polski.
+    * Treść przycisku "CLEAR" nie jest przetłumaczona na język polski.
+    * Brak przycisku odpowiadającego za funkcję zapisywania bez zmian.
     *  Po edycji danych meczu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "MECZE".
   * RAPORTY
     * Strona Raporty nie jest responsywna.
@@ -117,7 +120,3 @@
     * Strona Edycja raportu nie jest responsywna.
     * Raport nie dopasowuje się do ekranu, żeby zobaczyć go w całości musimy przewinąć stronę w prawy bok.
     * Po edycji danych raportu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "RAPORTY".
-
-  
-
-  
