@@ -9,7 +9,7 @@
 - Scouts Panel to aplikacja do analizowania informacji na temat młodych talentów piłki nożnej oraz ich wyników w rozgrywkach.
 - Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 - Funkcjonalności w aplikacji to:
-  a. logowanie - służy do logowania się w aplikacji,
+  1. logowanie - służy do logowania się w aplikacji,
   2. wylogowywanie - służy do wylogowywania się z aplikacji,
   3. pokazywanie ostatnich aktywności w aplikacji - służy do pokazywania ostatnich stworzonych graczy, raportów, meczy oraz ostatnich aktualizacji graczy, raportów, meczy. Umożliwia przeniesienie się za pomocą przycisków do tych aktywności.
   4. pokazywanie ilości wszystkich graczy - licznik pokazujący sumę wszystkich graczy w aplikacji,
