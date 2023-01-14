@@ -45,51 +45,49 @@
 - Interfejs aplikacji jest mało atrakcyjny, a przede wszystkim nie sugeruje na czym użytkownik ma skupić wzrok. Żaden wizualny element nie pomaga znaleźć funckjonalności, której w danym momencie szukamy. Strona główna powinna być wizytówką aplikacji, zachęcać użytkownika do dalszego korzystania, niestety tutaj strona główna wita nas chaosem wizualnym i nudą. Logo Platformy Skautingowej powinno być zlokalizowane w bardziej reprezentatywnym miejscu, a kafelek "Linki pomocnicze" lepiej, żeby znajdował się na dole strony niż w jej centralnej części. Strona wygląda bardziej jak strona w budowie niż finalny produkt.
 - Aplikacja nie jest intuicyjna. Miałam problem ze znalezeniem wielu funckjonalności. Niektóre funkcje znalazłam dopiero za 3-4 przeklikiwaniem strony. Niektórych funkcji nie rozumiem nadal. Wielką zagadką jest dla mnie funkcja rozgrywania meczy, próbowałam już kilka razy i dalej w mojej głowie pojawia się wielki pytajnik, gdy próbuję rozegrać mecz. Dość dużo czasu zajęło mi znalezienie funkcji edycji danych gracza oraz znalezienie strony z meczami i raportami. Bardzo brakuje mi przycisku "Dodaj nowego gracza" na stronie z listą graczy. Mój największy zarzut to chyba strona główna aplikacji. Po zalogowaniu się nie miałam pojęcia, co w ogóle mam kliknąć i co robić dalej. Musiałam patrzeć dłuższą chwilę na stronę główną, żeby rozeznać się z możliwościami, jakie daje aplikacja.
 - Błędy w aplikacji:
-  1. Na głównej stronie nie ma opcji dodawania nowego użytkownika. Istnieje tylko opcja zalogowania. Do weryfikacja czy to zamierzone.
-27. Na stronie logowania w języku polskim, nie jest przetłumaczony nagłówek "Scouts Panel". 
-28. Na głównej stronie w kafelku Scouts Panel - przycisk "Dev Team Contact" nie jest przetłumaczony na język polski.
-29. Na głównej stronie w zakładce "Aktywnosć" jest literówka, kafelek powinien mieć nagłówek "Aktywność".
-30. Bardziej intuicyjne byłoby umieszczenie funkcji dodawania nowego gracza w zakładce "Gracze".
-31. W formularzu dodawania gracza w polu "Główna Pozycja" przydałoby się rozwijane pole z propozycjami pozycji.
-32. Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się spację a nie prawidłowe dane.
-33. Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się po jednym znaku, a nie dane w prawidłowym formacie.
-34. Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się znaki specjalne, np. "&", a nie prawidłowe dane.
-35. Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się cyfry, np. "1", a nie dane w prawidłowym formacie.
-36. Formularz zapisuje do listy gracza, jeśli w polu "Główna pozycja" wpiszę się cyfry, np. "1", a nie dane w prawidłowym formacie.
-37. Formularz zapisuje do listy gracza, jeśli w polu "Data Urodzenia" wpiszę niemożliwą datę, czyli datę z przyszłości, np. 20.02.2023 lub z bardzo dalekiej przeszłości, np. 02.02.0001, brak ogranicznika daty.
-38. Formularz zapisuje do listy gracza, nawet jeśli wpiszemy identyczne dane, jak poprzedniego gracza.
-39. Formularz zapisuje niemożliwe dane w polu "Waga" i "Wiek", istnieje możliwość dodania minusowych wartości.
-40. Formularz zapisuje niemożliwe dane w polu "Telefon", istnieje możliwość dodania znaków specjalnych, np. &, liter, np. a i spacji.
-41. Po wpisaniu do formularza w polu "E-mail" maila w nieprawidłowym formacie (bez "@") wyskakuje komunikat "Nie udało się dodać gracza.", ale pole e-mail nie podkreśla się na czerwono, więc nie wiadomo czego dokładnie dotyczy błąd.
-42. 16. Po wpisaniu do formularza w polu "DODAJ LINK Z YOUTUBE" danych bez formatu strony internetowej formularz zapisuje błędne dane.
-43. Przycisk "CLEAR" pod formularzem edycji gracza nie działa zgodnie z logicznym opisem, po naciśnięciu dane wracają do wersji przed edycją.
-44. Przyciski "SUBMIT" i "CLEAR" pod formularzem dodawania gracza powinny być przetłumaczone na język polski.
-45. Brak możliwości usunięcia gracza z listy graczy.
-46. Pod formularzem dodawania gracza brak przycisku "NIE ZAPISUJ ZMIAN".
-47. Po zapisaniu danych gracza strona nie odsyła do zakładki "Gracze" tylko przekierowuje do strony edycji.
-48. Dodawanie informacji o meczach i raportów doyczących zawodnika jest nieintuicyjne.
-49. Funkcjonalność "Rozpocznij mecz" jest dla mnie nieintuicyjna. Nie ma opisu i nie wiem, jak działa to rozgrywanie meczu. Czy tu się zapisuje rozegrane mecze w formie graficznej czy hipotetyczne? Do tego nie ma opisów nad przyciskami, więc nei wiem czego dotyczą. Nie rozumiem jak działają te funkcjonalności po wciśnięciu przycisku "Play" , nie umiem rozgryść tego bez opisu.
-50. Nie mogę wygenerować raportu z meczu bez wpisania danych gracza w polu "Województwo" chociaż w formularzu dodawania gracza nie ma tam gwiazdki. Komunikat: "Brakujące dane gracza. Pole "Województwo" jest wymagane do stworzenia raportu."
-51. Przy otwarciu strony z edycją raportu meczowego przycisk "SAVE" rusza się po ekranie razem z przewijaniem strony w dół, często zasłaniając tekst.
-52. Przycisk "SAVE" na stronie edycji raportu meczowego nie ejst przetłumaczony na język polski.
-53. Strona raport meczowy nie wyświetla się na całym ekranie, żeby zobaczyć pełny raport trzeba przewinąć stronę w prawy bok.
-54. w opisach pomocniczych pod nagłówkami w raportach meczowych licznie braki znaków inteprpunkcyjnych.
-55. Układ strony głównej jest nielogiczny, dłuższą chwilę zajmuje znalezienie poszczególnych fuunkcjonalności.
-56. Wywołanie edycji gracza już istniejącego na liście Gracze nie jest intuicyjna. Po najechaniu na konkretnego gracza nie pojawia się informacja o edycji ani wybrany gracz się nie podświetla. Dopiero naciśnięcie (bez żadnej podpowiedzi) przekierowuje nas do edycji danych gracza.
-57. Po wejściu w Devtoolsy pojawia się komunikat - błąd 404 - GEThttps://scouts-test.futbolkolektyw.pl/pl/favicon.ico
-58. Strona "Mecze" nie jest responsywna.
-59. Strona "Raporty" nie jest responsywna.
-60. Strona z edycją raportów nie jest responsywna.
-61. Strona z funkcją "Rozpocznij mecz" nie jest responsywna.
-62. Na stronie z fucnkją "Rozpocznij mecz" istnieje możliwość dodania nieskończonej ilości połówek, a w meczu mogą być maksymlanie 4 połowy (w przypadku dogrywki).
-63. Opisy funkcji na stronie "Gracze" nie zostały przetłumaczone na język polski, tj. Download CSV, Print, View Columns, Filter Table.
-64. Na stronie "Gracze" napis w wyszukiwarce nie został przetłumaczony na język polski, tj. Search.
-65. Jeśli nie zapiszemy meczu tylko opuścimy stronę, na głównej stronie pojawi się kafelek z tytułem "Niezapisany mecz" z przyciskiem "Wróc do raportu". Po kliknięciu w przycisk nic się nie dzieje, a w Devtools wyskakuje komunikat: Uncaught (in promise) Error: The provided `as` value (/pl/players/6026b48956c79737b3f3c624/reports/start) is incompatible with the `href` value (/players/[id]/reports/start). Read more: https://err.sh/vercel/next.js/incompatible-href-as
-66. brak zakładki kontakt.
-67. brak przetłumaczenia na polski przycisku "DEV TEAM CONTACT", który przekierowuje do kanału na Slacku.
-68. Strona mecze nie mieści się w całym oknie przeglądarki.
-69. Pod edycją meczu jest kafelek z nagłówkiem "Lista zdarzeń", podania są opisywane w kolumnie z nagłówkiem "Meta dane". W tych kolumnach opisy kolejnych kroków są podane w niewłaściwym formacie, np. "meta._id, meta.createdAt, meta.updatedAt, meta.match, Głową, Z prowadzenia, W poprzek" lub 	"meta._id, meta.createdAt, meta.updatedAt, meta.match, Faulowany".
-70. Poza zapisaniu edycji meczu, nie jesteśmy przekierowywani do strony z listą meczów, tylko zostajemy na stronie edycji.
-71. W Filtrach tabeli graczy nie jest przetłumaczony Age and Rate na język polski.
-
-PS. Podczas testowania nie zapomnij z korzystania z poznanych dzisiaj DEVTOOLSÓW
+  * Na głównej stronie nie ma opcji dodawania nowego użytkownika. Istnieje tylko opcja zalogowania. Do weryfikacja czy to zamierzone.
+  * Na stronie logowania w języku polskim, nie jest przetłumaczony nagłówek "Scouts Panel". 
+  * Na głównej stronie w kafelku Scouts Panel - przycisk "Dev Team Contact" nie jest przetłumaczony na język polski.
+  * Na głównej stronie w zakładce "Aktywnosć" jest literówka, kafelek powinien mieć nagłówek "Aktywność".
+  * Bardziej intuicyjne byłoby umieszczenie funkcji dodawania nowego gracza w zakładce "Gracze".
+  * W formularzu dodawania gracza w polu "Główna Pozycja" przydałoby się rozwijane pole z propozycjami pozycji.
+  * Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się spację a nie prawidłowe dane.
+  * Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się po jednym znaku, a nie dane w prawidłowym formacie.
+  * Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się znaki specjalne, np. "&", a nie prawidłowe dane.
+  * Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" wpiszę się cyfry, np. "1", a nie dane w prawidłowym formacie.
+  * Formularz zapisuje do listy gracza, jeśli w polu "Główna pozycja" wpiszę się cyfry, np. "1", a nie dane w prawidłowym formacie.
+  * Formularz zapisuje do listy gracza, jeśli w polu "Data Urodzenia" wpiszę niemożliwą datę, czyli datę z przyszłości, np. 20.02.2023 lub z bardzo dalekiej przeszłości, np. 02.02.0001, brak ogranicznika daty.
+  * Formularz zapisuje do listy gracza, nawet jeśli wpiszemy identyczne dane, jak poprzedniego gracza.
+  * Formularz zapisuje niemożliwe dane w polu "Waga" i "Wiek", istnieje możliwość dodania minusowych wartości.
+  * Formularz zapisuje niemożliwe dane w polu "Telefon", istnieje możliwość dodania znaków specjalnych, np. &, liter, np. a i spacji.
+  * Po wpisaniu do formularza w polu "E-mail" maila w nieprawidłowym formacie (bez "@") wyskakuje komunikat "Nie udało się dodać gracza.", ale pole e-mail nie podkreśla się na czerwono, więc nie wiadomo czego dokładnie dotyczy błąd.
+  * Po wpisaniu do formularza w polu "DODAJ LINK Z YOUTUBE" danych bez formatu strony internetowej formularz zapisuje błędne dane.
+  * Przycisk "CLEAR" pod formularzem edycji gracza nie działa zgodnie z logicznym opisem, po naciśnięciu dane wracają do wersji przed edycją.
+  * Przyciski "SUBMIT" i "CLEAR" pod formularzem dodawania gracza powinny być przetłumaczone na język polski.
+  * Brak możliwości usunięcia gracza z listy graczy.
+  * Pod formularzem dodawania gracza brak przycisku "NIE ZAPISUJ ZMIAN".
+  * Po zapisaniu danych gracza strona nie odsyła do zakładki "Gracze" tylko przekierowuje do strony edycji.
+  * Dodawanie informacji o meczach i raportów doyczących zawodnika jest nieintuicyjne.
+  * Funkcjonalność "Rozpocznij mecz" jest dla mnie nieintuicyjna. Nie ma opisu i nie wiem, jak działa to rozgrywanie meczu. Czy tu się zapisuje rozegrane mecze w formie graficznej czy hipotetyczne? Do tego nie ma opisów nad przyciskami, więc nei wiem czego dotyczą. Nie rozumiem jak działają te funkcjonalności po wciśnięciu przycisku "Play" , nie umiem rozgryść tego bez opisu.
+  * Nie mogę wygenerować raportu z meczu bez wpisania danych gracza w polu "Województwo" chociaż w formularzu dodawania gracza nie ma tam gwiazdki. Komunikat: "Brakujące dane gracza. Pole "Województwo" jest wymagane do stworzenia raportu."
+  * Przy otwarciu strony z edycją raportu meczowego przycisk "SAVE" rusza się po ekranie razem z przewijaniem strony w dół, często zasłaniając tekst.
+  * Przycisk "SAVE" na stronie edycji raportu meczowego nie ejst przetłumaczony na język polski.
+  * Strona raport meczowy nie wyświetla się na całym ekranie, żeby zobaczyć pełny raport trzeba przewinąć stronę w prawy bok.
+  * w opisach pomocniczych pod nagłówkami w raportach meczowych licznie braki znaków inteprpunkcyjnych.
+  * Układ strony głównej jest nielogiczny, dłuższą chwilę zajmuje znalezienie poszczególnych fuunkcjonalności.
+  * Wywołanie edycji gracza już istniejącego na liście Gracze nie jest intuicyjna. Po najechaniu na konkretnego gracza nie pojawia się informacja o edycji ani wybrany gracz się nie podświetla. Dopiero naciśnięcie (bez żadnej podpowiedzi) przekierowuje nas do edycji danych gracza.
+  * Po wejściu w Devtoolsy pojawia się komunikat - błąd 404 - GEThttps://scouts-test.futbolkolektyw.pl/pl/favicon.ico
+  * Strona "Mecze" nie jest responsywna.
+  * Strona "Raporty" nie jest responsywna.
+  * Strona z edycją raportów nie jest responsywna.
+  * Strona z funkcją "Rozpocznij mecz" nie jest responsywna.
+  * Na stronie z fucnkją "Rozpocznij mecz" istnieje możliwość dodania nieskończonej ilości połówek, a w meczu mogą być maksymlanie 4 połowy (w przypadku dogrywki).
+  * Opisy funkcji na stronie "Gracze" nie zostały przetłumaczone na język polski, tj. Download CSV, Print, View Columns, Filter Table.
+  * Na stronie "Gracze" napis w wyszukiwarce nie został przetłumaczony na język polski, tj. Search.
+  * Jeśli nie zapiszemy meczu tylko opuścimy stronę, na głównej stronie pojawi się kafelek z tytułem "Niezapisany mecz" z przyciskiem "Wróc do raportu". Po kliknięciu w przycisk nic się nie dzieje, a w Devtools wyskakuje komunikat: Uncaught (in promise) Error: The provided `as` value (/pl/players/6026b48956c79737b3f3c624/reports/start) is incompatible with the `href` value (/players/[id]/reports/start). Read more: https://err.sh/vercel/next.js/incompatible-href-as
+  * brak zakładki kontakt.
+  * brak przetłumaczenia na polski przycisku "DEV TEAM CONTACT", który przekierowuje do kanału na Slacku.
+  * Strona mecze nie mieści się w całym oknie przeglądarki.
+  * Pod edycją meczu jest kafelek z nagłówkiem "Lista zdarzeń", podania są opisywane w kolumnie z nagłówkiem "Meta dane". W tych kolumnach opisy kolejnych kroków są podane w niewłaściwym formacie, np. "meta._id, meta.createdAt, meta.updatedAt, meta.match, Głową, Z prowadzenia, W poprzek" lub 	"meta._id, meta.createdAt, meta.updatedAt, meta.match, Faulowany".
+  * Poza zapisaniu edycji meczu, nie jesteśmy przekierowywani do strony z listą meczów, tylko zostajemy na stronie edycji.
+  * W Filtrach tabeli graczy nie jest przetłumaczony Age and Rate na język polski.
