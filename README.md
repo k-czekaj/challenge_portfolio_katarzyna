@@ -17,7 +17,7 @@
   * pokazywanie ilości wszystkich akcji - licznik pokazujący sumę wszystkich akcji w aplikacji,
   * przeglądanie listy graczy - pokazywanie tabeli ze wszystkimi graczami oraz ich dane,
   * dodawanie nowych graczy - umożliwia użytkownikowi dodanie nowego gracza do listy,
-    * lokalizacja przycisku "DODAJ GRACZA" nie jest w intuicyjna, przycisk przekierowujący na stronę z dodawaniem nowego gracza znjaduje się na głównej stronie w kafelku z nagłówkiem "Linki pomocnicze", moja pierwsza myśl była taka, że dodawanie nowego gracza powinno znajdować się na liście graczy i tam najpierw szukałam;
+    * lokalizacja przycisku "DODAJ GRACZA" nie jest w intuicyjna, przycisk przekierowujący na stronę z dodawaniem nowego gracza znajduje się na głównej stronie w kafelku z nagłówkiem "Linki pomocnicze", moja pierwsza myśl była taka, że dodawanie nowego gracza powinno znajdować się na liście graczy i tam najpierw szukałam;
   * wyszukiwanie graczy - pole do wpisywania danych szukanego gracza, w celu szybszego znalezienie go na liście graczy,
   * sortowanie danych graczy w poszczególnych kolumnach - sortowanie wartości w kolumnach alfabetycznie lub liczbowo,
     * napis SORT pojawia się dopiero po najechaniu na nagłówek, którejś z kolumn; bardziej intuicyjne byłoby dodanie strzałki od razu przy każdym nagłówku, aktualnie strzałka pojawia się dopiero po kliknięciu na nagłówek kolumny;
