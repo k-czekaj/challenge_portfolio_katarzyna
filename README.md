@@ -6,7 +6,7 @@
 
 **Kasia**
 ## **Subtask 4**
-<p align="justify">- Scouts Panel to aplikacja do analizowania informacji na temat młodych talentów piłki nożnej oraz ich wyników w rozgrywkach.
+- Scouts Panel to aplikacja do analizowania informacji na temat młodych talentów piłki nożnej oraz ich wyników w rozgrywkach.
 - Funkcjonalności w aplikacji to:
   * logowanie - służy do logowania się w aplikacji,
   * wylogowywanie - służy do wylogowywania się z aplikacji,
@@ -116,7 +116,7 @@
     * Przycisk z napisem "SAVE" porusza się po ekranie wraz ze scrollowaniem strony. Przycisk zasłania teskt w trakcie przesuwania.
     * Strona Edycja raportu nie jest responsywna.
     * Raport nie dopasowuje się do ekranu, żeby zobaczyć go w całości musimy przewinąć stronę w prawy bok.
-    * Po edycji danych raportu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "RAPORTY".</p>
+    * Po edycji danych raportu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "RAPORTY".
 
   
 
