@@ -10,8 +10,8 @@
 - Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 - Funkcjonalności w aplikacji to:
   1. logowanie - służy do logowania się w aplikacji,
-2. wylogowywanie - służy do wylogowywania się z aplikacji,
-3. pokazywanie ostatnich aktywności w aplikacji - służy do pokazywania ostatnich stworzonych graczy, raportów, meczy oraz ostatnich aktualizacji graczy, raportów, meczy. Umożliwia przeniesienie się za pomocą przycisków do tych aktywności.
+  2. wylogowywanie - służy do wylogowywania się z aplikacji,
+  3. pokazywanie ostatnich aktywności w aplikacji - służy do pokazywania ostatnich stworzonych graczy, raportów, meczy oraz ostatnich aktualizacji graczy, raportów, meczy. Umożliwia przeniesienie się za pomocą przycisków do tych aktywności.
 4. pokazywanie ilości wszystkich graczy - licznik pokazujący sumę wszystkich graczy w aplikacji,
 5. pokazywanie ilości wszystkich meczy - licznik pokazujący sumę wszystkich meczy w aplikacji,
 6. pokazywanie ilości wszystkich raportów - licznik pokazujący sumę wszystkich raportów w aplikacji,
