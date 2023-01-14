@@ -19,22 +19,21 @@
   * przeglądanie listy graczy - pokazywanie tabeli ze wszystkimi graczami oraz ich dane,
   * dodawanie nowych graczy - umożliwia użytkownikowi dodanie nowego gracza do listy,
   * wyszukiwanie graczy - pole do wpisywania danych szukanego gracza, w celu szybszego znalezienie go na liście graczy,
-  * sortowanie danych graczy w poszczególnych kolumnach,
-  * filtrowanie tabeli z listą graczy,
-  * wybór kolumn wyświetlanych w tabeli z listą graczy,
-  * drukowanie listy graczy,
-  * ściaganie pliku CSV z listą graczy,
-  * edycja danych dodanych graczy,
+  * sortowanie danych graczy w poszczególnych kolumnach - sortowanie wartości w kolumnach alfabetycznie lub liczbowo,
+  * filtrowanie tabeli z listą graczy - umożliwia filtrowanie danych w tabeli potakich danych jak: Imię, Nazwisko, Age, Pozycja, Klub, Rate;
+  * wybór kolumn wyświetlanych w tabeli z listą graczy - umożliwia wybór tego, z których kolumn chcemy oglądać dane graczy;
+  * drukowanie listy graczy - umożliwia wydrukowanie listy graczy,
+  * ściaganie pliku CSV z listą graczy - umożliwia pobranie pliku z listą graczy w formacie CSV na swój komputer,
+  * edycja danych dodanych graczy - umożliwia edytowanie danych znajdujących się na liście graczy,
     * bla bla
-  * zmiana języka aplikacji na angielski,
-  * przekierowywanie do wspólnego kanału komunikacji na Slacku,
-  * przeglądanie listy meczy danego zawodnika,
-  * dodawanie meczy rozegranych przez danego zawodnika,
-  * edycja meczy danego zawodnika,
-  * dodawanie raportów,
-  * edycja raportów,
-  * rozgrywanie meczy w formie interaktywnej grafiki,
-  * wysyłanie raportu z rogrywanego w interaktywnej formie meczu.
+  * zmiana języka aplikacji na angielski - umożliwia zmianę języka aplikacji z polskiego na angielski,
+  * przekierowywanie do wspólnego kanału komunikacji na Slacku - umożliwia znalezienie kanału komunikacji na Slacku,
+  * przeglądanie listy meczy danego zawodnika - pokazywanie tabeli ze wszystkimi meczami rozegranymi przez danego gracza oraz dane o nich,
+  * dodawanie meczy rozegranych przez danego zawodnika - umożliwia użytkownikowi dodanie nowego meczu rozegranego przez danego zawodnika do listy meczy,
+  * edycja meczy danego zawodnika - umożliwia edytowanie danych znajdujących się w meczu danego zawodnika,
+  * dodawanie raportów - umożliwia użytkownikowi dodanie nowego raportu z rozegranego przez danego zawodnika meczu,
+  * edycja raportów - umożliwia edytowanie danych znajdujących się w raportach,
+  * rozgrywanie meczy w formie interaktywnej grafiki - umożliwia rozegranie meczu poprzez klikanie na grafikę boiska, pozwala na dodawanie zdarzeń meczowych, np. faul, strzały, podanie długie; pozwala na granie, pauzowanie, zmianę połówek, cofanie zdarzenia, eksport raportu z meczu i kasowanie meczu.
 - Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 - Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
 - Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
@@ -83,5 +82,6 @@
 68. Strona mecze nie mieści się w całym oknie przeglądarki.
 69. Pod edycją meczu jest kafelek z nagłówkiem "Lista zdarzeń", podania są opisywane w kolumnie z nagłówkiem "Meta dane". W tych kolumnach opisy kolejnych kroków są podane w niewłaściwym formacie, np. "meta._id, meta.createdAt, meta.updatedAt, meta.match, Głową, Z prowadzenia, W poprzek" lub 	"meta._id, meta.createdAt, meta.updatedAt, meta.match, Faulowany".
 70. Poza zapisaniu edycji meczu, nie jesteśmy przekierowywani do strony z listą meczów, tylko zostajemy na stronie edycji.
+71. W Filtrach tabeli graczy nie jest przetłumaczony Age and Rate na język polski.
 
 PS. Podczas testowania nie zapomnij z korzystania z poznanych dzisiaj DEVTOOLSÓW
