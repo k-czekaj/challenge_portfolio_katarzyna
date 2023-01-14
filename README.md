@@ -18,8 +18,10 @@
   * pokazywanie ilości wszystkich akcji - licznik pokazujący sumę wszystkich akcji w aplikacji,
   * przeglądanie listy graczy - pokazywanie tabeli ze wszystkimi graczami oraz ich dane,
   * dodawanie nowych graczy - umożliwia użytkownikowi dodanie nowego gracza do listy,
+    * bla bla
   * wyszukiwanie graczy - pole do wpisywania danych szukanego gracza, w celu szybszego znalezienie go na liście graczy,
   * sortowanie danych graczy w poszczególnych kolumnach - sortowanie wartości w kolumnach alfabetycznie lub liczbowo,
+    * bla bla
   * filtrowanie tabeli z listą graczy - umożliwia filtrowanie danych w tabeli potakich danych jak: Imię, Nazwisko, Age, Pozycja, Klub, Rate;
   * wybór kolumn wyświetlanych w tabeli z listą graczy - umożliwia wybór tego, z których kolumn chcemy oglądać dane graczy;
   * drukowanie listy graczy - umożliwia wydrukowanie listy graczy,
@@ -28,13 +30,20 @@
     * bla bla
   * zmiana języka aplikacji na angielski - umożliwia zmianę języka aplikacji z polskiego na angielski,
   * przekierowywanie do wspólnego kanału komunikacji na Slacku - umożliwia znalezienie kanału komunikacji na Slacku,
+    * bla bla
   * przeglądanie listy meczy danego zawodnika - pokazywanie tabeli ze wszystkimi meczami rozegranymi przez danego gracza oraz dane o nich,
+    * bla bla
   * dodawanie meczy rozegranych przez danego zawodnika - umożliwia użytkownikowi dodanie nowego meczu rozegranego przez danego zawodnika do listy meczy,
   * edycja meczy danego zawodnika - umożliwia edytowanie danych znajdujących się w meczu danego zawodnika,
+  * przeglądanie listy raportów z meczy danego zawodnika - pokazywanie tabeli ze wszystkimi raportami z meczy danego gracza oraz dane o nich,
+    * bla bla
   * dodawanie raportów - umożliwia użytkownikowi dodanie nowego raportu z rozegranego przez danego zawodnika meczu,
   * edycja raportów - umożliwia edytowanie danych znajdujących się w raportach,
+    * bla bla
   * rozgrywanie meczy w formie interaktywnej grafiki - umożliwia rozegranie meczu poprzez klikanie na grafikę boiska, pozwala na dodawanie zdarzeń meczowych, np. faul, strzały, podanie długie; pozwala na granie, pauzowanie, zmianę połówek, cofanie zdarzenia, eksport raportu z meczu i kasowanie meczu;
+    * bla bla
   * pokazywanie informacji o niezapisanym meczu - pokazywanie na głównej stronie kafelka z informacją o niezapisanym meczu.
+    * bla bla
 - Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 - Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
 - Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
