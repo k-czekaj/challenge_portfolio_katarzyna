@@ -52,7 +52,7 @@
     * Na granatowym pasku znajdującym się na górze strony - teskt nagłówka strony "Scouts Panel" nie jest przetłumaczony na język polski.
     * W kafelku z tytułem "Scouts Panel" - teskt przycisku "Dev Team Contact" nie jest przetłumaczony na język polski.
     * W nagłówku kafelka "Aktywnosć" jest literówka, kafelek powinien mieć nagłówek "Aktywność".
-  * Dodaj gracza
+  * DODAJ GRACZA
     * Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone spacje.
     * Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone pojedyncze znaki, np. A, brak minimalnej ilości znaków.
     * Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone znaki specjalne, np. "&".
@@ -69,7 +69,7 @@
     * Treść przycisku "SUBMIT" nie jest przetłumaczona na język polski.
     * Treść przycisku "CLEAR" nie jest przetłumaczona na język polski.
     * Po zapisaniu danych gracza, strona przekierowuje do strony edycji. Strona powinna odesłać użytkownika do strony "Gracze".
-  * Edycja gracza
+  * EDYCJA GRACZA
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone spacje.
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone pojedyncze znaki, np. A, brak minimalnej ilości znaków.
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone znaki specjalne, np. "&".
@@ -88,7 +88,7 @@
     * Treść przycisku "CLEAR" nie jest przetłumaczona na język polski.
     * Brak przycisku odpowiadającego za funkcję zapisywania bez zmian.
     * Po edycji danych gracza, pozostajemy na stronie edycji gracza. Strona powinna odesłać użytkownika do strony "Gracze".
-  * Gracze 
+  * GRACZE
     * Brak możliwości usunięcia gracza z listy graczy.
 
   
