@@ -1,11 +1,19 @@
 # 🚀 **Task 1** 🚀
-## **Subtask 1 - wynik egzaminu**
+
+Spis treści:
+1. [Subtask 1](#Subtask1)
+2. [Subtask 3](#Subtask3)
+3. [Subtask 4](#Subtask4)
+
+## <a name="Subtask1">Subtask 1 - wynik egzaminu</a>
+
 9 punktów 🤸
-## **Subtask 3 - Dlaczego zdecydowałam się na udział w Dare IT - challenge portfolio?**
+
+## <a name="Subtask3">Subtask 3 - Dlaczego zdecydowałam się na udział w Dare IT - challenge portfolio?</a>
 <p align="justify">Cześć! Nazywam się Kasia i biorę udział w challenge portfolio, bo zdecydowałam wywrócić swoje życie do góry nogami i się przebranżowić. Wiem, że to proces, w którym poza samozaparciem jest potrzebna duża dawka wsparcia. Dlatego, ogromnym atutem tego wyzwania jest dla mnie mentoring i możliwość poznania innych kursantek. Poza tym szukałam takiego kursu, który będzie umożliwiał mi nie tylko zdobycie niezbędnej wiedzy, ale zrobienie tego w przyjaznych warunkach. Po obejrzeniu webinaru byłam już pewna, że czeka tu na mnie ogromna fala siostrzeństwa i dobrej zabawy, a nie tylko uczenia się na pamięć pustych frazesów. Poza tym bardzo przekanało mnie to, że wyzwanie jest nastawione na praktykę, a ja uwielbiam uczyć się właśnie przez doświadczenie. Moim celem jest zrobienie wszystkich zadań w terminie (zobaczymy, czy się uda;)), zdobycie niezbędnej wiedzy oraz poznanie ludzi, z którymi będziemy mogli się wspierać nie tylko w trakcie kursu, ale przede wszystkim na naszej nowej zawodowej drodze życia! 🍾</p>
 
 **Kasia**
-## **Subtask 4 - Testy eksploracyjne aplikacji**
+## <a name="Subtask4">Subtask 4 - Testy eksploracyjne aplikacji</a>
 - *Na czym polega ta aplikacja? Do czego służy?*
 
 Scouts Panel to aplikacja do analizowania informacji na temat młodych talentów piłki nożnej oraz ich wyników w rozgrywkach.
