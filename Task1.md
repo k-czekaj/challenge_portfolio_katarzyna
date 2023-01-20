@@ -19,6 +19,7 @@
 
 **Kasia**
 ## <a name="Subtask4">Subtask 4 - Testy eksploracyjne aplikacji</a>
+[Link do testowanej aplikacji Football Scout ⚽](https://scouts-test.futbolkolektyw.pl/pl)
 - <a name="kropka1">***Na czym polega ta aplikacja? Do czego służy?***</a>
 
 Scouts Panel to aplikacja do analizowania informacji na temat młodych talentów piłki nożnej oraz ich wyników w rozgrywkach.
