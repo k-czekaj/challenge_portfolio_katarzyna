@@ -99,7 +99,7 @@ Błędy w aplikacji:
     * Formularz zapisuje do listy gracza, jeśli w polu "Telefon" zostaną wprowadzone znaki specjalne, np. &, litery, np. a i spacje.
     * Formularz zapisuje do listy gracza, jeśli w polu "Telefon" zostanie wprowadzony jeden znak albo więcej niż dziewięć, brak ogranicznika znaków.
     * Po wprowadzeniu do formularza w polu "E-mail" adresu e-mail w nieprawidłowym formacie (bez "@") wyskakuje komunikat "Nie udało się dodać gracza.", ale pole e-mail nie podkreśla się na czerwono. Brak czytelnego komunikatu czego dotyczy błąd zapisu formularza.
-    * Formularz zapisuje do listy gracza, jeśli w polu "Główna pozaycja" zostaną wprowadzone znaki specjalne, np. &, litery, np. a i spacje. W polu "Główna Pozycja" powinno znajdować się rozwijane pole ze wszystkimi możliwymi pozycjami na boisku.
+    * Formularz zapisuje do listy gracza, jeśli w polu "Główna pozycja" zostaną wprowadzone znaki specjalne, np. &, litery, np. a i spacje. W polu "Główna Pozycja" powinno znajdować się rozwijane pole ze wszystkimi możliwymi pozycjami na boisku.
     * Formularz zapisuje do listy gracza, jeśli w polu "DODAJ LINK Z YOUTUBE" zostaną wprowadzone dane w innym formacie niż adres internetowy. Dane powinny być wprowadzane wg wzoru: https://wwww.XXX.XXX
     * Treść przycisku "SUBMIT" nie jest przetłumaczona na język polski.
 
