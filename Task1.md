@@ -1,13 +1,18 @@
-# **Task 1**
-## **Subtask 1**
+# 🚀 **Task 1** 🚀
+## **Subtask 1 - wynik egzaminu**
 9 punktów 🤸
-## **Subtask 3**
+## **Subtask 3 - Dlaczego zdecydowałam się na udział w Dare IT - challenge portfolio?**
 <p align="justify">Cześć! Nazywam się Kasia i biorę udział w challenge portfolio, bo zdecydowałam wywrócić swoje życie do góry nogami i się przebranżowić. Wiem, że to proces, w którym poza samozaparciem jest potrzebna duża dawka wsparcia. Dlatego, ogromnym atutem tego wyzwania jest dla mnie mentoring i możliwość poznania innych kursantek. Poza tym szukałam takiego kursu, który będzie umożliwiał mi nie tylko zdobycie niezbędnej wiedzy, ale zrobienie tego w przyjaznych warunkach. Po obejrzeniu webinaru byłam już pewna, że czeka tu na mnie ogromna fala siostrzeństwa i dobrej zabawy, a nie tylko uczenia się na pamięć pustych frazesów. Poza tym bardzo przekanało mnie to, że wyzwanie jest nastawione na praktykę, a ja uwielbiam uczyć się właśnie przez doświadczenie. Moim celem jest zrobienie wszystkich zadań w terminie (zobaczymy, czy się uda;)), zdobycie niezbędnej wiedzy oraz poznanie ludzi, z którymi będziemy mogli się wspierać nie tylko w trakcie kursu, ale przede wszystkim na naszej nowej zawodowej drodze życia! 🍾</p>
 
 **Kasia**
-## **Subtask 4**
-- Scouts Panel to aplikacja do analizowania informacji na temat młodych talentów piłki nożnej oraz ich wyników w rozgrywkach.
-- Funkcjonalności w aplikacji to:
+## **Subtask 4 - Testy eksploracyjne aplikacji**
+- *Na czym polega ta aplikacja? Do czego służy?*
+
+Scouts Panel to aplikacja do analizowania informacji na temat młodych talentów piłki nożnej oraz ich wyników w rozgrywkach.
+
+- *Jakie funkcjonalności znajdują się w aplikacji? Do czego służą? Czy są intuicyjne, czy może byś coś zmieniła?* 
+
+Funkcjonalności w aplikacji to:
   * logowanie - służy do logowania się w aplikacji,
   * wylogowywanie - służy do wylogowywania się z aplikacji,
   * pokazywanie ostatnich aktywności w aplikacji - służy do pokazywania ostatnich dodanych graczy, raportów, meczy oraz ostatnich aktualizacji graczy, raportów, meczy. Umożliwia przeniesienie się za pomocą przycisków do tych aktywności.
@@ -42,9 +47,18 @@
     * próbowałam analizować tę funkcjonalność kilka razy i dalej jej nie rozumiem, nie mam najmniejszego pojęcia jak poprawnie rozegrać mecz i po co; zdecydowanie brakuje jakieś krótkiej instrukcji dotyczącej obsługi tego narzędzia;
   * pokazywanie informacji o niezapisanym meczu - pokazywanie na głównej stronie kafelka z informacją o niezapisanym meczu,
     * nie rozumiem dlaczego ta funkcjonalność pojawia się na głównej stronie, bardziej intuicyjny byłby komunikat pokazujący się na ekranie przy próbie opuszczenia strony z rozgrywanym meczem.
-- Interfejs aplikacji jest mało atrakcyjny, a przede wszystkim nie sugeruje na czym użytkownik ma skupić wzrok. Żaden wizualny element nie pomaga znaleźć funckjonalności, której w danym momencie szukamy. Strona główna powinna być wizytówką aplikacji, zachęcać użytkownika do dalszego korzystania, niestety tutaj strona główna wita nas chaosem wizualnym i nudą. Logo Platformy Skautingowej powinno być zlokalizowane w bardziej reprezentatywnym miejscu, a kafelek "Linki pomocnicze" lepiej, żeby znajdował się na dole strony niż w jej centralnej części. Strona wygląda bardziej jak strona w budowie niż finalny produkt.
-- Aplikacja nie jest intuicyjna. Miałam problem ze znalezeniem wielu funckjonalności. Niektóre funkcje znalazłam dopiero za 3-4 przeklikiwaniem strony. Niektórych funkcji nie rozumiem nadal. Wielką zagadką jest dla mnie funkcja rozgrywania meczy, próbowałam już kilka razy i dalej w mojej głowie pojawia się wielki pytajnik, gdy próbuję rozegrać mecz. Dość dużo czasu zajęło mi znalezienie funkcji edycji danych gracza oraz znalezienie strony z meczami i raportami. Bardzo brakuje mi przycisku "Dodaj nowego gracza" na stronie z listą graczy. Mój największy zarzut to chyba strona główna aplikacji. Po zalogowaniu się nie miałam pojęcia, co w ogóle mam kliknąć i co robić dalej. Musiałam patrzeć dłuższą chwilę na stronę główną, żeby rozeznać się z możliwościami, jakie daje aplikacja.
-- Błędy w aplikacji:
+
+- *Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?*
+
+Interfejs aplikacji jest mało atrakcyjny, a przede wszystkim nie sugeruje na czym użytkownik ma skupić wzrok. Żaden wizualny element nie pomaga znaleźć funckjonalności, której w danym momencie szukamy. Strona główna powinna być wizytówką aplikacji, zachęcać użytkownika do dalszego korzystania, niestety tutaj strona główna wita nas chaosem wizualnym i nudą. Logo Platformy Skautingowej powinno być zlokalizowane w bardziej reprezentatywnym miejscu, a kafelek "Linki pomocnicze" lepiej, żeby znajdował się na dole strony niż w jej centralnej części. Strona wygląda bardziej jak strona w budowie niż finalny produkt.
+
+- *Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).*
+
+Aplikacja nie jest intuicyjna. Miałam problem ze znalezeniem wielu funckjonalności. Niektóre funkcje znalazłam dopiero za 3-4 przeklikiwaniem strony. Niektórych funkcji nie rozumiem nadal. Wielką zagadką jest dla mnie funkcja rozgrywania meczy, próbowałam już kilka razy i dalej w mojej głowie pojawia się wielki pytajnik, gdy próbuję rozegrać mecz. Dość dużo czasu zajęło mi znalezienie funkcji edycji danych gracza oraz znalezienie strony z meczami i raportami. Bardzo brakuje mi przycisku "Dodaj nowego gracza" na stronie z listą graczy. Mój największy zarzut to chyba strona główna aplikacji. Po zalogowaniu się nie miałam pojęcia, co w ogóle mam kliknąć i co robić dalej. Musiałam patrzeć dłuższą chwilę na stronę główną, żeby rozeznać się z możliwościami, jakie daje aplikacja.
+
+- *Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku.*
+
+Błędy w aplikacji:
   * STRONA LOGOWANIA
     * Brak opcji rejestracji nowego użytkownika. Do weryfikacji czy to błąd.
     * Nagłówek "Scouts Panel" nie jest przetłumaczony na język polski. 
