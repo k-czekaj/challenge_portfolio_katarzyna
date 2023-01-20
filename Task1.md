@@ -22,13 +22,14 @@
 [Link do testowanej aplikacji Football Scout ⚽](https://scouts-test.futbolkolektyw.pl/pl)
 - <a name="kropka1">***Na czym polega ta aplikacja? Do czego służy?***</a>
 
-Football Scout to aplikacja do analizowania informacji na temat młodych talentów piłki nożnej oraz ich wyników w rozgrywkach.
+<p align="justify">Football Scout to aplikacja do zarabiania na trasferach młodych piłkarzy. Pomaga w analizowaniu informacji na temat młodych talentów piłki nożnej oraz ich wyników w rozgrywkach.</p>
 
 - <a name="kropka2">***Jakie funkcjonalności znajdują się w aplikacji? Do czego służą? Czy są intuicyjne, czy może byś coś zmieniła?***</a>
 
 Funkcjonalności w aplikacji to:
   * logowanie - służy do logowania się w aplikacji,
   * wylogowywanie - służy do wylogowywania się z aplikacji,
+  * przypominanie hasła - służy do resetowania hasła do aplikacji,
   * pokazywanie ostatnich aktywności w aplikacji - służy do pokazywania ostatnich dodanych graczy, raportów, meczy oraz ostatnich aktualizacji graczy, raportów, meczy. Umożliwia przeniesienie się za pomocą przycisków do tych aktywności.
   * pokazywanie ilości wszystkich graczy - licznik pokazujący sumę wszystkich graczy w aplikacji,
   * pokazywanie ilości wszystkich meczy - licznik pokazujący sumę wszystkich meczy w aplikacji,
