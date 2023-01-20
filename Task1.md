@@ -164,6 +164,7 @@ Błędy w aplikacji:
     * Brak przycisku odpowiadającego za funkcję zapisywania bez zmian.
     * Po edycji danych meczu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "MECZE".
   * RAPORTY
+    * Po kliknięciu przycisku Dodaj raport jesteśmy przekierowywani na stronę z listą Meczy.
     * Strona Raporty nie jest responsywna.
     * Raport nie dopasowuje się do ekranu, żeby zobaczyć go w całości musimy przewinąć stronę w prawy bok.
     * Liczne błędy interpunkcyjne w opisach pomocniczych pod nagłówkami raportu.
