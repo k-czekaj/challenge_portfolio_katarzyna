@@ -22,7 +22,7 @@
 [Link do testowanej aplikacji Football Scout ⚽](https://scouts-test.futbolkolektyw.pl/pl)
 - <a name="kropka1">***Na czym polega ta aplikacja? Do czego służy?***</a>
 
-<p align="justify">Football Scout to aplikacja do zarabiania na trasferach młodych piłkarzy. Pomaga w analizowaniu informacji na temat młodych talentów piłki nożnej oraz ich wyników w rozgrywkach.</p>
+<p align="justify">Football Scout to aplikacja do zarabiania na trasferach młodych piłkarzy. Pomaga w analizowaniu informacji na temat piłkarzy oraz ich wyników w rozgrywkach.</p>
 
 - <a name="kropka2">***Jakie funkcjonalności znajdują się w aplikacji? Do czego służą? Czy są intuicyjne, czy może byś coś zmieniła?***</a>
 
