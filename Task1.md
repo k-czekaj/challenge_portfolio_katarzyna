@@ -80,6 +80,12 @@ Błędy w aplikacji:
     * Na granatowym pasku znajdującym się na górze strony - teskt nagłówka strony "Scouts Panel" nie jest przetłumaczony na język polski.
     * W kafelku z tytułem "Scouts Panel" - teskt przycisku "Dev Team Contact" nie jest przetłumaczony na język polski.
     * W nagłówku kafelka "Aktywnosć" jest literówka, kafelek powinien mieć nagłówek "Aktywność".
+    
+    ![Aktywnosć](https://user-images.githubusercontent.com/122294284/213789743-0df79695-e6b2-44eb-a2a3-818f8270b9ab.png)
+    * W kafelku "Aktywnosć" jest literówka w słowie "zaaktualizowany", powinno być "zaktualizowany".
+    
+    ![Zaaktualizowany](https://user-images.githubusercontent.com/122294284/213790370-bfe307b6-73ad-48f4-926f-64c4f38467bb.png)
+
   * DODAJ GRACZA
     * Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone spacje.
     * Formularz zapisuje do listy gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone pojedyncze znaki, np. A, brak minimalnej ilości znaków.
@@ -95,13 +101,19 @@ Błędy w aplikacji:
     * Formularz zapisuje do listy gracza, jeśli w polu "Główna pozaycja" zostaną wprowadzone znaki specjalne, np. &, litery, np. a i spacje. W polu "Główna Pozycja" powinno znajdować się rozwijane pole ze wszystkimi możliwymi pozycjami na boisku.
     * Formularz zapisuje do listy gracza, jeśli w polu "DODAJ LINK Z YOUTUBE" zostaną wprowadzone dane w innym formacie niż adres internetowy. Dane powinny być wprowadzane wg wzoru: https://wwww.XXX.XXX
     * Treść przycisku "SUBMIT" nie jest przetłumaczona na język polski.
+
+    ![Submit2](https://user-images.githubusercontent.com/122294284/213792847-96b94931-1db7-4bf4-8ef6-f2d551ce912e.png)
+    
     * Treść przycisku "CLEAR" nie jest przetłumaczona na język polski.
+    
+    ![Clear2](https://user-images.githubusercontent.com/122294284/213792924-c7ac1f18-7e14-4415-ab0d-4245078dd638.png)
+    
     * Po zapisaniu danych gracza, strona przekierowuje do strony edycji. Strona powinna odesłać użytkownika do strony "Gracze".
   * EDYCJA GRACZA
-    * W Devtoolsach pojawia się komunikat - błąd 404 - GEThttps://scouts-test.futbolkolektyw.pl/pl/favicon.ico
+    * W Devtoolsach pojawia się komunikat - błąd 404 (not found) - GEThttps://scouts-test.futbolkolektyw.pl/pl/favicon.ico
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone spacje.
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone pojedyncze znaki, np. A, brak minimalnej ilości znaków.
-    * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone znaki specjalne, np. "&".
+    * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone znaki specjalne inne nić "-", np. "&".
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Imię" i "Nazwisko" zostaną wprowadzone cyfry, np. 1.
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Główna pozycja" zostaną wprowadzone cyfry, np. 1.
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Data Urodzenia" zostanie wprowadzona data z przyszłości, np. 20.02.2023 lub z bardzo dalekiej przeszłości, np. 02.02.0001, brak ogranicznika daty.
@@ -110,17 +122,27 @@ Błędy w aplikacji:
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Telefon" zostaną wprowadzone znaki specjalne, np. &, litery, np. a i spacje.
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Telefon" zostanie wprowadzony jeden znak albo więcej niż dziewięć, brak ogranicznika znaków.
     * Po wprowadzeniu do formularza w polu "E-mail" adresu e-mail w nieprawidłowym formacie (bez "@") wyskakuje komunikat "Nie udało się dodać gracza.", ale pole e-mail nie podkreśla się na czerwono. Brak czytelnego komunikatu czego dotyczy błąd zapisu formularza.
-    * Formularz zapisuje edycję danych gracza, jeśli w polu "Główna pozaycja" zostaną wprowadzone znaki specjalne, np. &, litery, np. a i spacje. W polu "Główna Pozycja" powinno znajdować się rozwijane pole ze wszystkimi możliwymi pozycjami na boisku.
+    * Formularz zapisuje edycję danych gracza, jeśli w polu "Główna pozycja" zostaną wprowadzone znaki specjalne, np. &, litery, np. a i spacje. W polu "Główna Pozycja" powinno znajdować się rozwijane pole ze wszystkimi możliwymi pozycjami na boisku.
     * Formularz zapisuje edycję danych gracza, jeśli w polu "DODAJ LINK Z YOUTUBE" zostaną wprowadzone dane w innym formacie niż adres internetowy. Dane powinny być wprowadzane wg wzoru: https://wwww.XXX.XXX
     * Po naciśnięciu przycisku "CLEAR" dane wracają do wersji przed edycją, nie są wymazywane całkowicie. Do weryfikacji czy to błąd.
     * Treść przycisku "SUBMIT" nie jest przetłumaczona na język polski.
+    
+    ![SUBMIT](https://user-images.githubusercontent.com/122294284/213792353-acc92a15-1ecf-4688-a67e-286bd5e94aa1.png)
+
     * Treść przycisku "CLEAR" nie jest przetłumaczona na język polski.
+
+    ![CLEAR](https://user-images.githubusercontent.com/122294284/213792415-c81e4aab-7e83-48de-8988-3d4a22aec262.png)
+
+
     * Brak przycisku odpowiadającego za funkcję zapisywania bez zmian.
     * Po edycji danych gracza, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "Gracze".
   * GRACZE
     * Brak możliwości usunięcia gracza z listy graczy.
     * Opisy funkcji tabeli, tj. Download CSV, Print, View Columns, Filter Table nie są przetłumaczone na język polski.
     * Napis w wyszukiwarce, tj. Search nie jest przetłumaczony na język polski.
+    
+    ![Search](https://user-images.githubusercontent.com/122294284/213791094-86e492f2-3750-49d6-ab3d-befafbe873f6.png)
+    
     * Nazwy funkcji Downolad CSV, Print, View Columns, Filter Table nie są przetłumaczone na język polski.
     * W funckji Filter Table napisy Filters, Age, Rate nie są przetłumaczone na język polski.
   * MECZE
@@ -133,10 +155,13 @@ Błędy w aplikacji:
     * Jeśli nie zapiszemy meczu tylko opuścimy stronę, na głównej stronie pojawi się kafelek z tytułem "Niezapisany mecz" z przyciskiem "Wróć do raportu". Po kliknięciu w przycisk nic się nie dzieje, a w Devtools wyskakuje komunikat: Uncaught (in promise) Error: The provided `as` value (/pl/players/6026b48956c79737b3f3c624/reports/start) is incompatible with the `href` value (/players/[id]/reports/start). Read more: https://err.sh/vercel/next.js/incompatible-href-as
   * EDYCJA MECZU
     *  W kafelku z nagłówkiem "Lista zdarzeń", podania są opisywane w niewłaściwym formacie, np. "meta._id, meta.createdAt, meta.updatedAt, meta.match, Głową, Z prowadzenia, W poprzek" lub 	"meta._id, meta.createdAt, meta.updatedAt, meta.match, Faulowany".
+
+    ![Metadane](https://user-images.githubusercontent.com/122294284/213791654-e3e2b770-f353-4d5c-95e4-7a29c209b86f.png)
+
     * Treść przycisku "SUBMIT" nie jest przetłumaczona na język polski.
     * Treść przycisku "CLEAR" nie jest przetłumaczona na język polski.
     * Brak przycisku odpowiadającego za funkcję zapisywania bez zmian.
-    *  Po edycji danych meczu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "MECZE".
+    * Po edycji danych meczu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "MECZE".
   * RAPORTY
     * Strona Raporty nie jest responsywna.
     * Raport nie dopasowuje się do ekranu, żeby zobaczyć go w całości musimy przewinąć stronę w prawy bok.
@@ -145,6 +170,9 @@ Błędy w aplikacji:
   * EDYCJA RAPORTU
     * Teskt przycisku "SAVE" nie jest przetłumaczony na język polski.
     * Przycisk z napisem "SAVE" porusza się po ekranie wraz ze scrollowaniem strony. Przycisk zasłania teskt w trakcie przesuwania.
+    
+    ![Save](https://user-images.githubusercontent.com/122294284/213791968-b4db4f1b-28be-4719-b590-a253535a2614.png)
+
     * Strona Edycja raportu nie jest responsywna.
     * Raport nie dopasowuje się do ekranu, żeby zobaczyć go w całości musimy przewinąć stronę w prawy bok.
     * Po edycji danych raportu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "RAPORTY".
