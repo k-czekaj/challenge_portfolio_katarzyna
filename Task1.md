@@ -119,7 +119,7 @@ Błędy w aplikacji:
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Główna pozycja" zostaną wprowadzone cyfry, np. 1.
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Data Urodzenia" zostanie wprowadzona data z przyszłości, np. 20.02.2023 lub z bardzo dalekiej przeszłości, np. 02.02.0001, brak ogranicznika daty.
     * Formularz zapisuje edycję danych gracza, jeśli zostaną wprowadzone identyczne dane, jak poprzedniego gracza.
-    * Formularz zapisuje edycję danych gracza, jeśli w polach "Waga" i "Wiek" zostaną wprowadzone minusowe wartości, np. -10.
+    * Formularz zapisuje edycję danych gracza, jeśli w polach "Waga" i "Wzrost" zostaną wprowadzone minusowe wartości, np. -10.
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Telefon" zostaną wprowadzone znaki specjalne, np. &, litery, np. a i spacje.
     * Formularz zapisuje edycję danych gracza, jeśli w polu "Telefon" zostanie wprowadzony jeden znak albo więcej niż dziewięć, brak ogranicznika znaków.
     * Po wprowadzeniu do formularza w polu "E-mail" adresu e-mail w nieprawidłowym formacie (bez "@") wyskakuje komunikat "Nie udało się dodać gracza.", ale pole e-mail nie podkreśla się na czerwono. Brak czytelnego komunikatu czego dotyczy błąd zapisu formularza.
