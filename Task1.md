@@ -76,9 +76,9 @@ Funkcjonalności w aplikacji to:
 Błędy w aplikacji:
   * STRONA LOGOWANIA
     * Brak opcji rejestracji nowego użytkownika. Do weryfikacji czy to błąd.
-    * Nagłówek "Scouts Panel" nie jest przetłumaczony na język polski. 
+    * Nagłówek "Scouts Panel" nie jest przetłumaczony na język polski. Do weryfikacji czy to błąd.
   * STRONA GŁÓWNA
-    * Na granatowym pasku znajdującym się na górze strony - teskt nagłówka strony "Scouts Panel" nie jest przetłumaczony na język polski.
+    * Na granatowym pasku znajdującym się na górze strony - teskt nagłówka strony "Scouts Panel" nie jest przetłumaczony na język polski. Do weryfikacji czy to błąd.
     * W kafelku z tytułem "Scouts Panel" - teskt przycisku "Dev Team Contact" nie jest przetłumaczony na język polski.
     * W nagłówku kafelka "Aktywnosć" jest literówka, kafelek powinien mieć nagłówek "Aktywność".
     
@@ -100,7 +100,7 @@ Błędy w aplikacji:
     * Formularz zapisuje do listy gracza, jeśli w polu "Telefon" zostanie wprowadzony jeden znak albo więcej niż dziewięć, brak ogranicznika znaków.
     * Po wprowadzeniu do formularza w polu "E-mail" adresu e-mail w nieprawidłowym formacie (bez "@") wyskakuje komunikat "Nie udało się dodać gracza.", ale pole e-mail nie podkreśla się na czerwono. Brak czytelnego komunikatu czego dotyczy błąd zapisu formularza.
     * Formularz zapisuje do listy gracza, jeśli w polu "Główna pozycja" zostaną wprowadzone znaki specjalne, np. &, litery, np. a i spacje. W polu "Główna Pozycja" powinno znajdować się rozwijane pole ze wszystkimi możliwymi pozycjami na boisku.
-    * Formularz zapisuje do listy gracza, jeśli w polu "DODAJ LINK Z YOUTUBE" zostaną wprowadzone dane w innym formacie niż adres internetowy. Dane powinny być wprowadzane wg wzoru: https://wwww.XXX.XXX
+    * Formularz zapisuje do listy gracza, jeśli w polu "DODAJ LINK Z YOUTUBE" zostaną wprowadzone dane w innym formacie niż adres internetowy. Dane powinny być wprowadzane wg wzoru: https://wwww.AAA.AAA
     * Treść przycisku "SUBMIT" nie jest przetłumaczona na język polski.
 
     ![Submit2](https://user-images.githubusercontent.com/122294284/213792847-96b94931-1db7-4bf4-8ef6-f2d551ce912e.png)
@@ -135,7 +135,6 @@ Błędy w aplikacji:
     ![CLEAR](https://user-images.githubusercontent.com/122294284/213792415-c81e4aab-7e83-48de-8988-3d4a22aec262.png)
 
 
-    * Brak przycisku odpowiadającego za funkcję zapisywania bez zmian.
     * Po edycji danych gracza, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "Gracze".
   * GRACZE
     * Brak możliwości usunięcia gracza z listy graczy.
@@ -161,7 +160,6 @@ Błędy w aplikacji:
 
     * Treść przycisku "SUBMIT" nie jest przetłumaczona na język polski.
     * Treść przycisku "CLEAR" nie jest przetłumaczona na język polski.
-    * Brak przycisku odpowiadającego za funkcję zapisywania bez zmian.
     * Po edycji danych meczu, pozostajemy na stronie edycji. Strona powinna odesłać użytkownika do strony "MECZE".
   * RAPORTY
     * Po kliknięciu przycisku Dodaj raport jesteśmy przekierowywani na stronę z listą Meczy.
