@@ -9,6 +9,12 @@
     - [Jak byś usprawniła aplikację? Co byś w niej poprawiła? Czy masz jakiś pomysł na dodatkową funkcjonalność?](#kropka4)
     - [Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?](#kropka5)
 3. [Subtask 4 - Raportowanie błędów w Jirze (zadanie zespołowe)](#Subtask4)
+    - [CHAL-8 - Nie można wysłać zgłoszenia za pomocą formularza w aplikacji mobilnej](#pin1)
+    - [CHAL-9 - Użytkownik nie może zalogować się do aplikacji](#pin2)
+    - [CHAL-10 - Brak opisu pod podcastem 'Marie's Jam - Chyba się zakochałam w piłce nożnej'](#pin3)
+    - [CHAL-12 - Nie można odtworzyć materiałów wideo znajdujących się w aplikacji](#pin4)
+    - [CHAL-13 - Przyciski przekierowujące do social mediów nie działają w aplikacji](#pin5)
+    - [CHAL-14 - Brak możliwości udostępniania informacji o redaktorze](#pin6)
 
 ## <a name="Subtask2">Subtask 2 - Testowanie eksploracyjne i raportowanie błędów</a>
 
@@ -60,32 +66,32 @@
 
 **Zgłoszenia błędów:**
 
-❌ CHAL-8 - Nie można wysłać zgłoszenia za pomocą formularza w aplikacji mobilnej
+<a name="pin1">❌ CHAL-8 - Nie można wysłać zgłoszenia za pomocą formularza w aplikacji mobilnej</a>
 ![2023-02-07_17h05_35](https://user-images.githubusercontent.com/122294284/217298366-92843d8f-489e-4b7f-9338-cb95d7b49543.png)
 
 ![2023-02-07_17h05_55](https://user-images.githubusercontent.com/122294284/217298450-7af36c5b-e0dd-4c88-9105-17595194f7d6.png)
 
-❌ CHAL-9 - Użytkownik nie może zalogować się do aplikacji
+<a name="pin2">❌ CHAL-9 - Użytkownik nie może zalogować się do aplikacji</a>
 ![2023-02-07_15h36_59](https://user-images.githubusercontent.com/122294284/217298654-df04092f-4f2e-4253-81ac-568572276ca1.png)
 
 ![2023-02-07_15h37_53](https://user-images.githubusercontent.com/122294284/217298731-f380195c-bd5a-4191-a65f-fc559cc89d51.png)
 
-❌ CHAL-10 - Brak opisu pod podcastem 'Marie's Jam - Chyba się zakochałam w piłce nożnej'
+<a name="pin3">❌ CHAL-10 - Brak opisu pod podcastem 'Marie's Jam - Chyba się zakochałam w piłce nożnej'</a>
 ![2023-02-07_17h08_51](https://user-images.githubusercontent.com/122294284/217299227-fee6e836-d624-445c-a8ec-546b105148a0.png)
 
 ![2023-02-07_17h09_13](https://user-images.githubusercontent.com/122294284/217299241-275e2ac1-ff92-4aa1-b002-f1c5c10a4678.png)
 
-❌ CHAL-12 - Nie można odtworzyć materiałów wideo znajdujących się w aplikacji
+<a name="pin4">❌ CHAL-12 - Nie można odtworzyć materiałów wideo znajdujących się w aplikacji</a>
 ![2023-02-07_17h11_01](https://user-images.githubusercontent.com/122294284/217299746-d982378b-e7aa-494b-aa72-4fdadfb327ee.png)
 
 ![2023-02-07_17h11_17](https://user-images.githubusercontent.com/122294284/217299761-b56e9018-6ac9-4937-9ae3-c93302d9c516.png)
 
-❌ CHAL-13 - Przyciski przekierowujące do social mediów nie działają w aplikacji
+<a name="pin5">❌ CHAL-13 - Przyciski przekierowujące do social mediów nie działają w aplikacji</a>
 ![2023-02-07_17h12_53](https://user-images.githubusercontent.com/122294284/217300271-c2bf06d5-d8d3-4896-92ab-c4c9a95d9d94.png)
 
 ![2023-02-07_17h13_15](https://user-images.githubusercontent.com/122294284/217300282-8c0f33b3-1c51-45be-9c23-3242ad21932a.png)
 
-❌ CHAL-14 - Brak możliwości udostępniania informacji o redaktorze
+<a name="pin6">❌ CHAL-14 - Brak możliwości udostępniania informacji o redaktorze</a>
 ![2023-02-07_17h14_49](https://user-images.githubusercontent.com/122294284/217300738-249027c8-e031-4c9d-9e85-352d05ad54a6.png)
 
 ![2023-02-07_17h15_03](https://user-images.githubusercontent.com/122294284/217300814-ad218a57-d675-497b-8f19-7b44ae18d4fb.png)
