@@ -18,19 +18,19 @@
 
 ## <a name="Subtask3">Subtask 3 - Do czego służy ta aplikacja?</a>
 
-### <a name="kropka1">***1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?***</a>
+### <a name="kropka1">*1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?*</a>
 
 <p align="justify">OLX służy do wystawiania ogłoszeń dotyczących sprzedaży rzeczy, pojazdów, poszukiwania pracy i nieruchomości. Celem aplikacji jest umożliwienie użytkownikom znalezienie, kupienie i sprzedanie niepotrzebnych rzeczy. Aplikacja zarabia na usługach serwisowych, prowizji od sprzedaży, promowaniu i odświeżaniu ogłoszeń.</p>
 
-### <a name="kropka2">***2. Kto ma być użytkownikiem końcowym aplikacji?***</a>
+### <a name="kropka2">*2. Kto ma być użytkownikiem końcowym aplikacji?*</a>
 
 <p align="justify">Użytkownikiem końcowym aplikacji może być tak naprawdę każdy. Zarówno osoby młode, jak i starsze. Osoby prywatne, jak i firmy. Osoby chcące kupować, jak i osoby chcące sprzedawać. Firmy szukające pracowników i pracownicy szukający pracy. Jest to naprawdę uniwersalna aplikacja, której może używać każdy z nas, bez względu na wiek, wykształcenie czy pozycję społeczną. </p>
 
-### <a name="kropka3">***3. Czy według Ciebie aplikacja jest user friendly?***</a>
+### <a name="kropka3">*3. Czy według Ciebie aplikacja jest user friendly?*</a>
 
 <p align="justify">Jeśli ktoś nigdy nie korzystał z serwisu OLX to aplikacja może być dla niego lekkim zaskoczeniem. Jest kilka funkcjonalności serwisu, które nie są typowe dla innych platform sprzedażowych jak np. potrzeba potwierdzenia sprzedaży, odświeżanie ogłoszeń, potrzeba ich przedłużania czy limity sprzedaży w danych kategoriach. Samo poruszanie się po aplikacji, jak i wystawianie ogłoszeń jest bardzo proste, szybkie i intuicyjne. Reszta problemów bardziej wynika ze specyfiki serwisu niż z samej aplikacji.</p>
 
-### <a name="kropka4">***4. Jak byś usprawniła aplikację? Co byś w niej poprawiła? Czy masz jakiś pomysł na dodatkową funkcjonalność?***</a>
+### <a name="kropka4">*4. Jak byś usprawniła aplikację? Co byś w niej poprawiła? Czy masz jakiś pomysł na dodatkową funkcjonalność?*</a>
 
 📌 **wakacje**  <p align="justify">W aplikacji OLX użytkownik, który sprzedaje swoje przedmioty nie może ukryć ogłoszeń na czas wyjazdu. Co prawda sprzedaż trzeba każdorazowo zaakceptować, ale wielokrotnie zdarzało mi się, że ktoś miał pretensje, że przedmiot jest wystawiony skoro, ja nie mogę go wysłać. Jestem stałą użytkowniczką aplikacji i jest to funkcjonalność, której brakuje mi najbardziej.</p>
 
@@ -48,7 +48,7 @@
 
 📌 **więcej pytań do osoby wystawiającej ogłoszenie** <p align="justify">Niestety, ale dużo ludzi nie rozumie jak działa SEO, więc piszą opisy ogłoszenia w następujący sposób: 'Lampa nowa'. Często szukam bardzo konkretnej rzeczy, ale jeśli nie ma szczegółów w opisie, nie mam szans jej znaleźć. Dodanie kilku sugerowanych pól, jak np. marka, kolor, czy nr produktu bardzo ułatwiłby wyszukiwanie.</p>
 
-### <a name="kropka5">***5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?***</a>
+### <a name="kropka5">*5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?*</a>
 
 <p align="justify">Testowanie aplikacji internetowej a natywnej było dla mnie zupełnie innym doświadczeniem. Aplikacje mobilne mają zazwyczaj mniej funkcji, są minimalistyczne i wygodne w użytkowaniu. Użytkownik smartphona ma zazwyczaj mniej czasu i cierpliwości niż użytkownik komputera, a od przełączenia do innej aplikacji dzieli go jeden ruch kciukiem. Dlatego to, co było dla mnie znaczącą różnicą była liczba kombinacji możliwych do testowania. Aplikacja internetowa, dzięki możliwości chociażby użycia myszki, czy Devtoolsów dawała mi więcej opcji działania podczas testowania. Kolejnym aspektem, były różnice w nawigacji oraz wielkość kafelków i napisów. Wygoda w użytkowaniu aplikacji na komputerze a wygoda w aplikacji mobilnej zupełnie się różni. Trzeba zwracać uwagę na zupełnie inne aspekty. Testowanie na różnych urządzeniach dało mi świadomość tego, że to, co sprawdza się w wersji internetowej nie ma przełożenia 1 do 1 do aplikacji mobilnej.</p>
 
