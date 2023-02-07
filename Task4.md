@@ -32,7 +32,21 @@
 
 <a name="kropka4">***4. Jak byś usprawnił aplikację? Co byś w niej poprawił? Czy masz jakiś pomysł na dodatkową funkcjonalność?***</a>
 
-<p align="justify"> </p>
+📌 **wakacje** - w aplikacji OLX użytkownik, który sprzedaje swoje przedmioty nie może ukryć ogłoszeń na czas wyjazdu. Co prawda sprzedaż trzeba każdorazowo zaakceptować, ale wielokrotnie zdarzało mi się, że ktoś miał pretensje, że przedmiot jest wystawiony skoro, ja nie mogę go wysłać. Jestem stałą użytkowniczką aplikacji i jest to funkcjonalność, której brakuje mi najbardziej.
+
+📌 **możliwość edycji/dodania zdjęcia użytkownika** - aplikacja pozwala dodać zdjęcie tylko, jeśli rejestrujemy konto za pomocą Facebooka. Jeśli wybraliśmy inną formę rejestracji nie możemy dodać zdjęcia. Jest to bardzo niewygodne, bo część osób uważa użytkowników bez zdjęcia za mniej wiarygodnych.
+
+📌 **algorytmy wyszukiwania** - algorytmy wyszukiwarki OLX są dla mnie ogromną zagadką. Nigdy nie mogę znaleźć tego, czego szukam, jeśli fraza składa się z więcej niż jednego słowa i nie jest bardzo precyzyjna. Bardzo utrudnia to wyszukanie poszukiwanego przedmiotu. Dla przykładu wpisałam w wyszukiwarkę frazę 'testowanie oprogramowania'. Efekty są wręcz zaskakujące.
+
+📌 **otrzymane oceny** - działanie ocen było przez bardzo długi czas dla mnie niezrozumiałe. W końcu doszłam do tego, jak działa. Jeśli ktoś napisze do nas w sprawie, któregoś z naszych przedmiotów, po kilku dniach dostaje prośbę o ocenę użytkownika. Często dostawałam pytanie 'czy zakupiony przedmiot spełnia oczekiwania?' na kilka dni przed dostaniem przesyłki i realną możliwością oceny produktu. Poza tym mamy tylko jedną szansę oceny użytkowanika. Jeśli nie klikniemy w powiadomienie, nie ma w aplikacji zakładki, gdzie możemy ocenić osoby, od których coś kupowaliśmy. Przez to zbieranie ocen jest bardzo, ale to bardzo utrudnione.
+
+📌 **więcej filtrów wyszukiwania** - brakuje mi szerszego wyboru filtrów wyszukiwania, np. wyszukiwania po rzeczach nowych/używanych. Ułatwiłoby mi to znajdywanie konkretnych poszukiwanych przeze mnie produktów.
+
+📌 **automatyczne kończenie ogłoszeń po dokonaniu sprzedaży** - jeśli ktoś kupi nasz produkt, a my potwierdzimy sprzedaż, ogłoszenie dalej jest widoczne. Po prostu nie ma możliwości zakupu produktu z przesyłką OLX. Jeśli zapomni się zaraz po zakupie usunąć ogłoszenia można spodziewać się wielu wiadomości z treścią 'aktualne?', co bywa męczące.
+
+📌 **wysyłanie tylko jednej wiadomości z aplikacji, jeśli ktoś dokona zakupu naszego produktu** - jeśli ktoś kupi nasz produkt dostajemy dwa powiadomienia z aplikacji. Jedno na temat prośby o potwierdzenie sprzedaży, a drugie w formie generowanej automatycznie wiadomości od adresata. Wolałabym dostawać jedno powiadomienie, nie widzę potrzeby dostawania dwóch.
+
+📌 **więcej pytań do osoby wystawiającej ogłoszenie** - niestety, ale dużo ludzi nie rozumie jak działa SEO, więc piszą opisy ogłoszenia w następujący sposób: 'Lampa nowa'. Często szukam bardzo konkretnej rzeczy, ale jeśli nie ma szczegółów w opisie, nie mam szans jej znaleźć. Dodanie kilku sugerowanych pól, jak np. marka, kolor, czy nr produktu bardzo ułatwiłby wyszukiwanie.
 
 <a name="kropka5">***5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?***</a>
 
