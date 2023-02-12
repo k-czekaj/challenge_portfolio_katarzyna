@@ -35,7 +35,7 @@
 
 >SELECT * FROM movies
 >
->WHERE year_of_production = '2019'
+>WHERE year_of_production BETWEEN '1900' AND '1999'
 
 ![zadanie 3](https://user-images.githubusercontent.com/122294284/218321022-40aa15de-554f-4734-8153-f86be6b8f01e.png)
 
