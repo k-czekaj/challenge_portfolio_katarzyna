@@ -73,13 +73,29 @@
 ![zadanie 7](https://user-images.githubusercontent.com/122294284/218322577-9e4203a4-6aca-4da6-86ac-80ddb32f58b0.png)
 
 
-8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+### 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
+>SELECT * FROM actors
+>
+>WHERE name LIKE 'An%'
 
-9. Wyświetl dane klienta, który nie ma podanego adresu email.
+![zadanie 8](https://user-images.githubusercontent.com/122294284/218322887-30f5ea34-a6c4-41d8-8312-dfcab7ac3db6.png)
 
+### 9. Wyświetl dane klienta, który nie ma podanego adresu email.
 
-10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+>SELECT * FROM customers
+>
+>WHERE email IS NULL
+
+![zadanie 9](https://user-images.githubusercontent.com/122294284/218323052-49ee9aa7-0f8f-4d2d-a85c-9c0b71bba102.png)
+
+### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+>SELECT * FROM movies
+>
+>WHERE price >9 AND movie_id BETWEEN 2 AND 8
+
+![zadanie 10](https://user-images.githubusercontent.com/122294284/218323337-d21a4f44-d731-4194-8e60-1e6ec6bf329c.png)
 
 
 
