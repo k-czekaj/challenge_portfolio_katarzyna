@@ -2,12 +2,15 @@
 
 ## **Subtask 1 - Krótki kurs podstaw SQL**
 
-### *Operatory, jakich się nauczyłam:*
+### Operatory/zapytania, jakich się nauczyłam 👇
 
-:pushpin: 
 
-### *Zapytania, jakich się nauczyłam:*
-:pushpin: 
+|USE AdventureWorks2014<br/>GO|SELECT * <br/>FROM Person.Person|SELECT Name, Color, Size <br/>FROM Production.Product|SELECT ProductID AS ID <br/>FROM Production.Product|
+|:- |:- |:- |:- |
+|SELECT * <br/>FROM Production.Product<br/>ORDER BY Name|SELECT * <br/>FROM Production.Product<br/>ORDER BY Color DESC|SELECT ProductID <br/>FROM Production.Product <br/>WHERE ProductID = 707|SELECT ProductID, Name, Color <br/>FROM Production.Product<br/>WHERE ProductID > 100|
+|SELECT ProductID <br/>FROM Production.Product<br/>WHERE ProductID BETWEEN 13 AND 360|SELECT Color <br/>FROM Production.Product<br/>WHERE Color = 'Red'|SELECT * <br/>FROM Production.Product<br/>WHERE Name LIKE 'B%'|SELECT * <br/>FROM Production.Product<br/>WHERE Name LIKE '%Bike%'|
+|SELECT * <br/>FROM Production.Product<br/>WHERE Name LIKE 'Mountain Bike Socks, _'|SELECT Name, Color, Size <br/>FROM Production.Product<br/>WHERE Color = 'Black' AND Size = 'M'|SELECT ProductID, Name, Color <br/>FROM Production.Product<br/>WHERE Color = 'Black' OR Color = 'Silver' OR Color = 'Blue'|SELECT * <br/>FROM Production.Product <br/>WHERE Name LIKE '%Bike%' AND Color = 'White'|
+
 
 ## **Subtask 3 - Kilka zadań związanych z SQL'em**
 ### 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
