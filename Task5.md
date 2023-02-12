@@ -1,6 +1,6 @@
 # 🚀 **Task 5** 🚀
 
-**SPIS TREŚCI:**
+**:pushpin: SPIS TREŚCI:**
 1. [Subtask 1 - Krótki kurs podstaw SQL, lista operatorów](#Subtask1)
 2. [Subtask 3 - Kilka zadań związanych z SQL'em](#Subtask3)
     - [Zad. 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.](#kropka1)
