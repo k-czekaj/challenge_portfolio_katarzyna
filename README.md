@@ -55,10 +55,22 @@
 ![zadanie 5](https://user-images.githubusercontent.com/122294284/218321483-db6e822f-c533-41db-956f-bb18e04d3a03.png)
 
 
-6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+### 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+
+>SELECT * FROM customers
+>
+>WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6
+
+![zadanie 6](https://user-images.githubusercontent.com/122294284/218322384-475bb109-ca9c-43eb-af24-0c73630dc52c.png)
 
 
-7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+### 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+
+>SELECT * FROM customers
+>
+>WHERE customer_id IN (1, 3, 5)
+
+![zadanie 7](https://user-images.githubusercontent.com/122294284/218322577-9e4203a4-6aca-4da6-86ac-80ddb32f58b0.png)
 
 
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
