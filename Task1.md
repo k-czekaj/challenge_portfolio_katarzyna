@@ -1,6 +1,6 @@
 # 🚀 **Task 1** 🚀
 
-**SPIS TREŚCI:**
+**:pushpin: SPIS TREŚCI:**
 1. [Subtask 1 -  wynik egzaminu](#Subtask1)
 2. [Subtask 3 - Dlaczego zdecydowałam się na udział w Dare IT - challenge portfolio?](#Subtask3)
 3. [Subtask 4 - Testy eksploracyjne aplikacji](#Subtask4)
