@@ -1,6 +1,6 @@
 # 🚀 **Task 4** 🚀
 
-**SPIS TREŚCI:**
+**:pushpin: SPIS TREŚCI:**
 1. [Subtask 2 - Testowanie eksploracyjne i raportowanie błędów](#Subtask2)
 2. [Subtask 3 - Do czego służy ta aplikacja?](#Subtask3)
     - [Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?](#kropka1)
