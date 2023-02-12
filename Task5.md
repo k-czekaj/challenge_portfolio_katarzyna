@@ -4,12 +4,14 @@
 
 ### Operatory/zapytania, jakich się nauczyłam 👇
 
-
 |USE AdventureWorks2014<br/>GO|SELECT * <br/>FROM Person.Person|SELECT Name, Color, Size <br/>FROM Production.Product|SELECT ProductID AS ID <br/>FROM Production.Product|
 |:- |:- |:- |:- |
 |SELECT * <br/>FROM Production.Product<br/>ORDER BY Name|SELECT * <br/>FROM Production.Product<br/>ORDER BY Color DESC|SELECT ProductID <br/>FROM Production.Product <br/>WHERE ProductID = 707|SELECT ProductID, Name, Color <br/>FROM Production.Product<br/>WHERE ProductID > 100|
 |SELECT ProductID <br/>FROM Production.Product<br/>WHERE ProductID BETWEEN 13 AND 360|SELECT Color <br/>FROM Production.Product<br/>WHERE Color = 'Red'|SELECT * <br/>FROM Production.Product<br/>WHERE Name LIKE 'B%'|SELECT * <br/>FROM Production.Product<br/>WHERE Name LIKE '%Bike%'|
 |SELECT * <br/>FROM Production.Product<br/>WHERE Name LIKE 'Mountain Bike Socks, _'|SELECT Name, Color, Size <br/>FROM Production.Product<br/>WHERE Color = 'Black' AND Size = 'M'|SELECT ProductID, Name, Color <br/>FROM Production.Product<br/>WHERE Color = 'Black' OR Color = 'Silver' OR Color = 'Blue'|SELECT * <br/>FROM Production.Product <br/>WHERE Name LIKE '%Bike%' AND Color = 'White'|
+|SELECT * FROM Production.Product<br/>WHERE Color IS NULL|SELECT * FROM Production.Product<br/>WHERE Color IS NOT NULL|SELECT GETDATE() AS CurrentDateTime|SELECT DATEDIFF(MONTH, '20190801', '20201201')|
+SELECT DATEDIFF(HOUR, '20190801 12:15', '20190801 15:15')|SELECT ProductID, UPPER(Name) AS Name<br/>FROM Production.Product|SELECT COUNT(*) AS FnCount FROM Production.Product|SELECT ProductID, Name, Color AS Kolor, <br/>DATEDIFF(DAY, SellStartDate, GETDATE())<br/>FROM Production.Product|
+|SELECT SUM(ListPrice) AS FnSum FROM Production.Product|SELECT MIN(ListPrice) AS FnMIN FROM Production.Product|SELECT Color, COUNT(*) AS Cnt<br/>FROM Production.Product<br/>GROUP BY Color|SELECT ProductID, p.Name, ps.Name, p.ProductSubcategoryID, ps.ProductSubcategoryID<br/>FROM Production.Product AS p<br/>JOIN Production.ProductSubcategory AS ps ON p.ProductSubcategoryID = ps.ProductSubcategoryID|
 
 
 ## **Subtask 3 - Kilka zadań związanych z SQL'em**
