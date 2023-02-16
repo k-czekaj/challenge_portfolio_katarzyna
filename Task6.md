@@ -65,7 +65,7 @@
 >
 >SET pseudonym = CONCAT(LEFT(name,2), RIGHT(surname,1))
 
-![zadanie 15](https://user-images.githubusercontent.com/122294284/219413926-46833be5-15a4-4735-be5d-c426c5e603ed.png)
+![zadanie 15](https://user-images.githubusercontent.com/122294284/219426366-12083c94-31ef-496b-b5b1-a0e22fbb60e7.png)
 
 ### <a name="kropka6">16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.</a>
 
