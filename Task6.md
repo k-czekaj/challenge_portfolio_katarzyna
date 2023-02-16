@@ -6,8 +6,8 @@
     - [Zad. 12. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila, który kupił film o id 4.](#kropka2)
     - [Zad. 13. Uzupełnij email klientce Patrycji wpisując: pati@mail.com.](#kropka3)
     - [Zad. 14. Dla każdego zakupu wyświetl imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu.](#kropka4)
-    - [Zad. 15. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.](#kropka5)
-    - [Zad. 16. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.](#kropka6)
+    - [Zad. 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag.](#kropka5)
+    - [Zad. 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.](#kropka6)
     - [Zad. 17. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.](#kropka7)
     - [Zad. 18. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.](#kropka8)
     - [Zad. 19. Wyświetl dane klienta, który nie ma podanego adresu email.](#kropka9)
@@ -58,3 +58,14 @@
 >INNER JOIN movies ON sale.movie_id = movies.movie_id
 
 ![zadanie 14](https://user-images.githubusercontent.com/122294284/219392531-ccb3eb55-7922-4250-a7f2-aff9ebd84a3e.png)
+
+### <a name="kropka5">15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag.</a>
+
+>SELECT name, surname, CONCAT(LEFT(name,2), RIGHT(surname,1)) AS pseudonym, email
+>
+>FROM customers
+
+![zadanie 15](https://user-images.githubusercontent.com/122294284/219413926-46833be5-15a4-4735-be5d-c426c5e603ed.png)
+
+### <a name="kropka6">16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.</a>
+
