@@ -61,9 +61,9 @@
 
 ### <a name="kropka5">15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag.</a>
 
->SELECT name, surname, CONCAT(LEFT(name,2), RIGHT(surname,1)) AS pseudonym, email
+>UPDATE customers
 >
->FROM customers
+>SET pseudonym = CONCAT(LEFT(name,2), RIGHT(surname,1))
 
 ![zadanie 15](https://user-images.githubusercontent.com/122294284/219413926-46833be5-15a4-4735-be5d-c426c5e603ed.png)
 
