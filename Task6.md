@@ -107,5 +107,12 @@ WHERE year_of_production > 2000
 ### <a name="kropka9">19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał.</a>
 
 ```sql
-
+SELECT actors.actor_id, actors.name, actors.surname, movies.title
+FROM actors
+JOIN cast ON cast.actor_id = actors.actor_id
+JOIN movies ON movies.movie_id = cast.movie_id
+WHERE actors.actor_id = 4
 ```
+
+![zadanie 19](https://user-images.githubusercontent.com/122294284/219463093-563f3aff-5dce-4c64-b7e5-1f37b41a2e4f.png)
+
