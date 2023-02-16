@@ -69,3 +69,13 @@
 
 ### <a name="kropka6">16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.</a>
 
+>SELECT DISTINCT movies.movie_id, movies.title
+>
+>FROM sale
+>
+>INNER JOIN movies ON sale.movie_id = movies.movie_id
+>
+>ORDER BY movie_id;
+
+![zadanie 16](https://user-images.githubusercontent.com/122294284/219416129-fc5675ce-31d1-400a-8b40-ab395c68d3b4.png)
+
