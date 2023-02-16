@@ -80,3 +80,14 @@
 ![zadanie 16](https://user-images.githubusercontent.com/122294284/219416129-fc5675ce-31d1-400a-8b40-ab395c68d3b4.png)
 
 ### <a name="kropka7">17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie (wykorzystaj do tego funkcję UNION).</a>
+
+>SELECT name FROM actors
+>
+>UNION
+>
+>SELECT name FROM customers
+>
+>ORDER BY name
+
+![zadanie 17](https://user-images.githubusercontent.com/122294284/219456488-cf893b00-209e-4d53-911b-f213e101e497.png)
+
