@@ -29,7 +29,7 @@ SELECT DATEDIFF(HOUR, '20190801 12:15', '20190801 15:15')|SELECT *ProductID,* UP
 |SELECT SUM(ListPrice) AS *FnSum* FROM *Production.Product*|SELECT MIN(ListPrice) AS *FnMIN* FROM *Production.Product*|SELECT *Color,* COUNT(*) AS *Cnt*<br/>FROM *Production.Product*<br/>GROUP BY *Color*|SELECT *ProductID, p.Name, ps.Name, p.ProductSubcategoryID, ps.ProductSubcategoryID*<br/>FROM *Production.Product* AS *p*<br/>JOIN *Production.ProductSubcategory* AS *ps* ON *p.ProductSubcategoryID = ps.ProductSubcategoryID*|
 
 
-##  <a name="Subtask3">Subtask 3 - Kilka zadań związanych z SQL'em 👩‍💻 </a>
+##  <a name="Subtask3">Subtask 3 - Kilka zadań związanych z SQLem 👩‍💻 </a>
 ### <a name="kropka1"><p align="justify">1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.</p></a>
 
 ```sql
