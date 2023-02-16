@@ -4,7 +4,7 @@
 1. [Subtask 1 - Kilka zadań związanych z SQL'em](#Subtask1)
     - [Zad. 11. Znajdź i zastosuj funkcję, która poprawi nazwisko Ani Muler na Miler.](#kropka1)
     - [Zad. 12. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila, który kupił film o id 4.](#kropka2)
-    - [Zad. 13. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.](#kropka3)
+    - [Zad. 13. Uzupełnij email klientce Patrycji wpisując: pati@mail.com.](#kropka3)
     - [Zad. 14. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.](#kropka4)
     - [Zad. 15. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.](#kropka5)
     - [Zad. 16. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.](#kropka6)
@@ -37,3 +37,12 @@
 ![zadanie 12](https://user-images.githubusercontent.com/122294284/219366048-41769051-2835-4459-a7f8-42c1ac6c0613.png)
 
 
+### <a name="kropka3">13. Uzupełnij email klientce Patrycji wpisując: pati@mail.com.</a>
+
+>UPDATE customers
+>
+>SET email = 'pati@mail.com'
+>
+>WHERE name LIKE 'Patrycja'
+
+![zadanie 13](https://user-images.githubusercontent.com/122294284/219372141-d53d5bb3-aef8-422e-a059-fa013fd7a278.png)
