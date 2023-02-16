@@ -8,10 +8,10 @@
     - [Zad. 14. Dla każdego zakupu wyświetl imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu.](#kropka4)
     - [Zad. 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag.](#kropka5)
     - [Zad. 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.](#kropka6)
-    - [Zad. 17. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.](#kropka7)
-    - [Zad. 18. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.](#kropka8)
-    - [Zad. 19. Wyświetl dane klienta, który nie ma podanego adresu email.](#kropka9)
-    - [Zad. 20. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.](#kropka10)
+    - [Zad. 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie (wykorzystaj do tego funkcję UNION).](#kropka7)
+    - [Zad. 18. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).](#kropka8)
+    - [Zad. 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał.](#kropka9)
+    - [Zad. 20. Dodaj do tabeli customers nową klientkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa.](#kropka10)
 
 ##  <a name="Subtask1">Subtask 1 - Kilka zadań związanych z SQL'em 👩‍💻 </a>
 ### <a name="kropka1">11. Znajdź i zastosuj funkcję, która poprawi nazwisko Ani Muler na Miler.</a>
@@ -75,7 +75,8 @@
 >
 >INNER JOIN movies ON sale.movie_id = movies.movie_id
 >
->ORDER BY movie_id;
+>ORDER BY movie_id
 
 ![zadanie 16](https://user-images.githubusercontent.com/122294284/219416129-fc5675ce-31d1-400a-8b40-ab395c68d3b4.png)
 
+### <a name="kropka7">17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie (wykorzystaj do tego funkcję UNION).</a>
