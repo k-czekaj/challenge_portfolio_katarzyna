@@ -9,7 +9,7 @@
     - [Zad. 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag.](#kropka5)
     - [Zad. 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.](#kropka6)
     - [Zad. 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie (wykorzystaj do tego funkcję UNION).](#kropka7)
-    - [Zad. 18. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).](#kropka8)
+    - [Zad. 18. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).](#kropka8)
     - [Zad. 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał.](#kropka9)
     - [Zad. 20. Dodaj do tabeli customers nową klientkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa.](#kropka10)
 
@@ -94,3 +94,18 @@ ORDER BY name
 
 ![zadanie 17](https://user-images.githubusercontent.com/122294284/219456488-cf893b00-209e-4d53-911b-f213e101e497.png)
 
+### <a name="kropka8">18. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5$ (pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).</a>
+
+```sql
+UPDATE movies
+SET price = price+2.5
+WHERE year_of_production > 2000
+```
+
+![zadanie 18](https://user-images.githubusercontent.com/122294284/219460427-345c5356-522f-4958-aaeb-a4a04e3b6caf.png)
+
+### <a name="kropka9">19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał.</a>
+
+```sql
+
+```
