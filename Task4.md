@@ -1,14 +1,14 @@
 # 🚀 **Task 4** 🚀
 
 **:pushpin: SPIS TREŚCI:**
-1. [Subtask 2 - Testowanie eksploracyjne i raportowanie błędów](#Subtask2)
-2. [Subtask 3 - Do czego służy ta aplikacja?](#Subtask3)
+1. [Subtask 2 - Testowanie eksploracyjne i raportowanie błędów](#subtask2)
+2. [Subtask 3 - Do czego służy ta aplikacja?](#subtask3)
     - [Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?](#kropka1)
     - [Kto ma być użytkownikiem końcowym aplikacji?](#kropka2)
     - [Czy według Ciebie aplikacja jest user friendly?](#kropka3)
     - [Jak byś usprawniła aplikację? Co byś w niej poprawiła? Czy masz jakiś pomysł na dodatkową funkcjonalność?](#kropka4)
     - [Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?](#kropka5)
-3. [Subtask 4 - Raportowanie błędów w Jirze (zadanie zespołowe)](#Subtask4)
+3. [Subtask 4 - Raportowanie błędów w Jirze (zadanie zespołowe)](#subtask4)
     - [CHAL-8 - Nie można wysłać zgłoszenia za pomocą formularza w aplikacji mobilnej](#pin1)
     - [CHAL-9 - Użytkownik nie może zalogować się do aplikacji](#pin2)
     - [CHAL-10 - Brak opisu pod podcastem 'Marie's Jam - Chyba się zakochałam w piłce nożnej'](#pin3)
@@ -16,13 +16,13 @@
     - [CHAL-13 - Przyciski przekierowujące do social mediów nie działają w aplikacji](#pin5)
     - [CHAL-14 - Brak możliwości udostępniania informacji o redaktorze](#pin6)
 
-## <a name="Subtask2">Subtask 2 - Testowanie eksploracyjne i raportowanie błędów</a>
+## <a name="subtask2">Subtask 2 - Testowanie eksploracyjne i raportowanie błędów</a>
 
 **Testowana aplikacja:** [OLX :house: - Google play](https://play.google.com/store/apps/details?id=pl.tablica&hl=pl&gl=US&pli=1)
 
 :point_right: [Link do raportu błędów z testowania eksploracyjnego aplikacji mobilnej :iphone:](https://docs.google.com/document/d/1EwfDMgOukFiEkgu811isbseMbgd0ftd9vhd2B74jAWw/edit?usp=sharing)
 
-## <a name="Subtask3">Subtask 3 - Do czego służy ta aplikacja?</a>
+## <a name="subtask3">Subtask 3 - Do czego służy ta aplikacja?</a>
 
 ### <a name="kropka1">*1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?*</a>
 
@@ -58,7 +58,7 @@
 
 <p align="justify">Testowanie aplikacji internetowej a natywnej było dla mnie zupełnie innym doświadczeniem. Aplikacje mobilne mają zazwyczaj mniej funkcji, są minimalistyczne i wygodne w użytkowaniu. Użytkownik smartphona ma zazwyczaj mniej czasu i cierpliwości niż użytkownik komputera, a od przełączenia do innej aplikacji dzieli go jeden ruch kciukiem. Dlatego to, co było dla mnie znaczącą różnicą była liczba kombinacji możliwych do testowania. Aplikacja internetowa, dzięki możliwości chociażby użycia myszki, czy Devtoolsów dawała mi więcej opcji działania podczas testowania. Kolejnym aspektem, były różnice w nawigacji oraz wielkość kafelków i napisów. Wygoda w użytkowaniu aplikacji na komputerze, a wygoda w aplikacji mobilnej zupełnie się różni. Trzeba zwracać uwagę na zupełnie inne aspekty. Testowanie na różnych urządzeniach dało mi świadomość tego, że to, co sprawdza się w wersji internetowej nie ma przełożenia 1 do 1 do aplikacji mobilnej.</p>
 
-## <a name="Subtask4">Subtask 4 - Raportowanie błędów w Jirze (zadanie zespołowe)</a>
+## <a name="subtask4">Subtask 4 - Raportowanie błędów w Jirze (zadanie zespołowe)</a>
 
 **Testowana aplikacja:** [Swipe to :page_facing_up: - Google play](https://play.google.com/store/apps/details?id=pl.swipeto)
 
