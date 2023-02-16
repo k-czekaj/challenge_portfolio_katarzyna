@@ -116,3 +116,12 @@ WHERE actors.actor_id = 4
 
 ![zadanie 19](https://user-images.githubusercontent.com/122294284/219463093-563f3aff-5dce-4c64-b7e5-1f37b41a2e4f.png)
 
+### <a name="kropka10">20. Dodaj do tabeli customers nową klientkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa.</a>
+
+```sql
+INSERT INTO customers (customer_id, name, surname, email, pseudonym)
+VALUES (7, 'Honia','Stuczka-Kucharska', 'honia@mail.com', 'Hoa')
+```
+
+![zadanie 20](https://user-images.githubusercontent.com/122294284/219464807-05bea634-d0ed-46d8-91be-0891f878a90d.png)
+
