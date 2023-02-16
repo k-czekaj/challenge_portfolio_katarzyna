@@ -1,8 +1,8 @@
 # 🚀 **Task 5** 🚀
 
 **:pushpin: SPIS TREŚCI:**
-1. [Subtask 1 - Krótki kurs podstaw SQL, lista operatorów](#Subtask1)
-2. [Subtask 3 - Kilka zadań związanych z SQL'em](#Subtask3)
+1. [Subtask 1 - Krótki kurs podstaw SQL, lista operatorów](#subtask1)
+2. [Subtask 3 - Kilka zadań związanych z SQL'em](#subtask3)
     - [Zad. 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.](#kropka1)
     - [Zad. 2. Wyświetl film, który powstał w 2019 roku.](#kropka2)
     - [Zad. 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.](#kropka3)
@@ -15,7 +15,7 @@
     - [Zad. 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.](#kropka10)
 
 
-## <a name="Subtask1">Subtask 1 - Krótki kurs podstaw SQL</a>
+## <a name="subtask1">Subtask 1 - Krótki kurs podstaw SQL</a>
 
 ### 👇 Operatory/zapytania, jakich się nauczyłam 👇
 
@@ -29,7 +29,7 @@ SELECT DATEDIFF(HOUR, '20190801 12:15', '20190801 15:15')|SELECT *ProductID,* UP
 |SELECT SUM(ListPrice) AS *FnSum* FROM *Production.Product*|SELECT MIN(ListPrice) AS *FnMIN* FROM *Production.Product*|SELECT *Color,* COUNT(*) AS *Cnt*<br/>FROM *Production.Product*<br/>GROUP BY *Color*|SELECT *ProductID, p.Name, ps.Name, p.ProductSubcategoryID, ps.ProductSubcategoryID*<br/>FROM *Production.Product* AS *p*<br/>JOIN *Production.ProductSubcategory* AS *ps* ON *p.ProductSubcategoryID = ps.ProductSubcategoryID*|
 
 
-##  <a name="Subtask3">Subtask 3 - Kilka zadań związanych z SQLem 👩‍💻 </a>
+##  <a name="subtask3">Subtask 3 - Kilka zadań związanych z SQLem 👩‍💻 </a>
 ### <a name="kropka1"><p align="justify">1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.</p></a>
 
 ```sql
