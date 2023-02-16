@@ -19,12 +19,15 @@
 
 **Kasia**
 ## <a name="subtask14">Subtask 4 - Testy eksploracyjne aplikacji</a>
-[Link do testowanej aplikacji Football Scout ⚽](https://scouts-test.futbolkolektyw.pl/pl)
-- <a name="kropka1">***Na czym polega ta aplikacja? Do czego służy?***</a>
+>[Link do testowanej aplikacji Football Scout ⚽](https://scouts-test.futbolkolektyw.pl/pl)
+>
+>🔑**DANE TESTOWE -** Login: *user10@getnada.com*, Hasło: *Test-1234* 
+
+### :pushpin:<a name="kropka1">***Na czym polega ta aplikacja? Do czego służy?***</a>
 
 <p align="justify">Football Scout to aplikacja do zarabiania na trasferach młodych piłkarzy. Pomaga w analizowaniu informacji na temat piłkarzy oraz ich wyników w rozgrywkach.</p>
 
-- <a name="kropka2">***Jakie funkcjonalności znajdują się w aplikacji? Do czego służą? Czy są intuicyjne, czy może byś coś zmieniła?***</a>
+### :pushpin:<a name="kropka2">***Jakie funkcjonalności znajdują się w aplikacji? Do czego służą? Czy są intuicyjne, czy może byś coś zmieniła?***</a>
 
 Funkcjonalności w aplikacji to:
   * logowanie - służy do logowania się w aplikacji,
@@ -63,15 +66,15 @@ Funkcjonalności w aplikacji to:
   * pokazywanie informacji o niezapisanym meczu - pokazywanie na głównej stronie kafelka z informacją o niezapisanym meczu,
     * nie rozumiem dlaczego ta funkcjonalność pojawia się na głównej stronie, bardziej intuicyjny byłby komunikat pokazujący się na ekranie przy próbie opuszczenia strony z rozgrywanym meczem.
 
-- <a name="kropka3">***Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?***</a>
+### :pushpin:<a name="kropka3">***Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?***</a>
 
 <p align="justify">Interfejs aplikacji jest mało atrakcyjny, a przede wszystkim nie sugeruje na czym użytkownik ma skupić wzrok. Żaden wizualny element nie pomaga znaleźć funkcjonalności, której w danym momencie szukamy. Strona główna powinna być wizytówką aplikacji, zachęcać użytkownika do dalszego korzystania, niestety tutaj strona główna wita nas chaosem wizualnym i monotonią. Logo Platformy Skautingowej powinno być zlokalizowane w bardziej reprezentatywnym miejscu. Strona wygląda bardziej jak strona w budowie niż finalny produkt.</p>
 
-- <a name="kropka4">***Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).***</a>
+### :pushpin:<a name="kropka4">***Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).***</a>
 
 <p align="justify">Aplikacja nie jest intuicyjna. Miałam problem ze znalezeniem wielu funckjonalności. Niektóre funkcje znalazłam dopiero za 3-4 przeklikiwaniem strony. Niektórych funkcji nie rozumiem nadal. Wielką zagadką jest dla mnie funkcja rozgrywania meczy, próbowałam już kilka razy i dalej w mojej głowie pojawia się wielki pytajnik, gdy próbuję rozegrać mecz. Dość dużo czasu zajęło mi znalezienie funkcji edycji danych gracza oraz znalezienie strony z meczami i raportami. Bardzo brakuje mi przycisku "Dodaj nowego gracza" na stronie z listą graczy. Mój największy zarzut to chyba strona główna aplikacji. Po zalogowaniu się nie miałam pojęcia, co w ogóle mam kliknąć i co robić dalej. Musiałam patrzeć dłuższą chwilę na stronę główną, żeby rozeznać się z możliwościami, jakie daje aplikacja. </p>
 
-- <a name="kropka5">***Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku.***</a>
+### :pushpin:<a name="kropka5">***Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku.***</a>
 
 Błędy w aplikacji:
   * STRONA LOGOWANIA
