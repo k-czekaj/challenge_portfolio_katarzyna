@@ -13,7 +13,7 @@
     - [Zad. 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał.](#kropka9)
     - [Zad. 20. Dodaj do tabeli customers nową klientkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa.](#kropka10)
 
-##  <a name="Subtask1">Subtask 1 - Kilka zadań związanych z SQL'em c.d. 👩‍💻 </a>
+##  <a name="Subtask1">Subtask 1 - Kilka zadań związanych z SQLem c.d. 👩‍💻 </a>
 ### <a name="kropka1"><p align="justify">11. Znajdź i zastosuj funkcję, która poprawi nazwisko Ani Muler na Miler.<p align="justify"></p></a>
 
 ```sql
