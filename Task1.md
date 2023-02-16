@@ -1,24 +1,24 @@
 # 🚀 **Task 1** 🚀
 
 **:pushpin: SPIS TREŚCI:**
-1. [Subtask 1 -  wynik egzaminu](#Subtask11)
-2. [Subtask 3 - Dlaczego zdecydowałam się na udział w Dare IT - challenge portfolio?](#Subtask13)
-3. [Subtask 4 - Testy eksploracyjne aplikacji](#Subtask14)
+1. [Subtask 1 -  wynik egzaminu](#subtask11)
+2. [Subtask 3 - Dlaczego zdecydowałam się na udział w Dare IT - challenge portfolio?](#subtask13)
+3. [Subtask 4 - Testy eksploracyjne aplikacji](#subtask14)
     - [Na czym polega ta aplikacja? Do czego służy?](#kropka1)
     - [Jakie funkcjonalności znajdują się w aplikacji? Do czego służą? Czy są intuicyjne, czy może byś coś zmieniła?](#kropka2)
     - [Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?](#kropka3)
     - [Czy aplikacja jest intuicyjna?](#kropka4)
     - [Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem?](#kropka5)
 
-## <a name="Subtask11">Subtask 1 - wynik egzaminu</a>
+## <a name="subtask11">Subtask 1 - wynik egzaminu</a>
 
 9/10 punktów 🤸
 
-## <a name="Subtask13">Subtask 3 - Dlaczego zdecydowałam się na udział w Dare IT - challenge portfolio?</a>
+## <a name="subtask13">Subtask 3 - Dlaczego zdecydowałam się na udział w Dare IT - challenge portfolio?</a>
 <p align="justify">Cześć! Nazywam się Kasia i biorę udział w challenge portfolio, bo zdecydowałam wywrócić swoje życie do góry nogami i się przebranżowić. Wiem, że to proces, w którym poza samozaparciem jest potrzebna duża dawka wsparcia. Dlatego, ogromnym atutem tego wyzwania jest dla mnie mentoring i możliwość poznania innych kursantek. Poza tym szukałam takiego kursu, który będzie umożliwiał mi nie tylko zdobycie niezbędnej wiedzy, ale zrobienie tego w przyjaznych warunkach. Po obejrzeniu webinaru byłam już pewna, że czeka tu na mnie ogromna fala siostrzeństwa i dobrej zabawy, a nie tylko uczenia się na pamięć pustych frazesów. Poza tym bardzo przekanało mnie to, że wyzwanie jest nastawione na praktykę, a ja uwielbiam uczyć się właśnie przez doświadczenie. Moim celem jest zrobienie wszystkich zadań w terminie (zobaczymy, czy się uda;)), zdobycie niezbędnej wiedzy oraz poznanie ludzi, z którymi będziemy mogli się wspierać nie tylko w trakcie kursu, ale przede wszystkim na naszej nowej zawodowej drodze życia! 🍾</p>
 
 **Kasia**
-## <a name="Subtask14">Subtask 4 - Testy eksploracyjne aplikacji</a>
+## <a name="subtask14">Subtask 4 - Testy eksploracyjne aplikacji</a>
 [Link do testowanej aplikacji Football Scout ⚽](https://scouts-test.futbolkolektyw.pl/pl)
 - <a name="kropka1">***Na czym polega ta aplikacja? Do czego służy?***</a>
 
