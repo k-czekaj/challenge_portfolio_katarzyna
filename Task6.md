@@ -5,7 +5,7 @@
     - [Zad. 11. Znajdź i zastosuj funkcję, która poprawi nazwisko Ani Muler na Miler.](#kropka1)
     - [Zad. 12. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila, który kupił film o id 4.](#kropka2)
     - [Zad. 13. Uzupełnij email klientce Patrycji wpisując: pati@mail.com.](#kropka3)
-    - [Zad. 14. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.](#kropka4)
+    - [Zad. 14. Dla każdego zakupu wyświetl imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu.](#kropka4)
     - [Zad. 15. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.](#kropka5)
     - [Zad. 16. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.](#kropka6)
     - [Zad. 17. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.](#kropka7)
@@ -46,3 +46,15 @@
 >WHERE name LIKE 'Patrycja'
 
 ![zadanie 13](https://user-images.githubusercontent.com/122294284/219372141-d53d5bb3-aef8-422e-a059-fa013fd7a278.png)
+
+### <a name="kropka4">14. Dla każdego zakupu wyświetl imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).</a>
+
+>SELECT customers.name, customers.surname, movies.title
+>
+>FROM sale
+>
+>INNER JOIN customers ON customers.customer_id = sale.customer_id
+>
+>INNER JOIN movies ON sale.movie_id = movies.movie_id
+
+![zadanie 14](https://user-images.githubusercontent.com/122294284/219392531-ccb3eb55-7922-4250-a7f2-aff9ebd84a3e.png)
