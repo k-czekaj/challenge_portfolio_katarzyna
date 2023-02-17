@@ -2,7 +2,7 @@
 
 ## **Subtask 1 - Bug report**
 
-👉 [Link to Google Drive with Subtask 1](https://docs.google.com/document/d/10RJ3KETgt6hfGOgRjBXehvltJySLm14vGhCZz_SJTU8/edit?usp=sharing)
+👉 [Link to Google Drive with Subtask 1](https://docs.google.com/spreadsheets/d/1o7aJO7-b41CV3tPTUE2qcwcl9hbmt0tt6_8ib-sy9qs/edit?usp=sharing)
 
 ## **Subtask 2 - Testing according to the test plan**
 
