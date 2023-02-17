@@ -6,7 +6,7 @@
     - [Zad. 12. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila, który kupił film o id 4.](#kropka2)
     - [Zad. 13. Uzupełnij email klientce Patrycji wpisując: pati@mail.com.](#kropka3)
     - [Zad. 14. Dla każdego zakupu wyświetl imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu.](#kropka4)
-    - [Zad. 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag.](#kropka5)
+    - [Zad. 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer. Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag.](#kropka5)
     - [Zad. 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.](#kropka6)
     - [Zad. 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie (wykorzystaj do tego funkcję UNION).](#kropka7)
     - [Zad. 18. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).](#kropka8)
@@ -57,7 +57,7 @@ INNER JOIN movies ON sale.movie_id = movies.movie_id
 
 ![zadanie 14](https://user-images.githubusercontent.com/122294284/219392531-ccb3eb55-7922-4250-a7f2-aff9ebd84a3e.png)
 
-### <a name="kropka5"><p align="justify">15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag.</p></a>
+### <a name="kropka5"><p align="justify">15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer. Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag.</p></a>
 
 Krok nr 1
 ```sql
