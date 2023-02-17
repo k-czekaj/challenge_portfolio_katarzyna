@@ -20,7 +20,7 @@
 
 **Testowana aplikacja:** [OLX :house: - Google play](https://play.google.com/store/apps/details?id=pl.tablica&hl=pl&gl=US&pli=1)
 
-:point_right: [Link do raportu błędów z testowania eksploracyjnego aplikacji mobilnej :iphone:](https://docs.google.com/document/d/1EwfDMgOukFiEkgu811isbseMbgd0ftd9vhd2B74jAWw/edit?usp=sharing)
+:point_right: [Link do raportu błędów z testowania eksploracyjnego aplikacji mobilnej :iphone:](https://docs.google.com/spreadsheets/d/1muAVMK3fiv_bbriZgU5UXNuu5mbXXu3myqjWlIlFlU8/edit?usp=sharing)
 
 ## <a name="subtask3">Subtask 3 - Do czego służy ta aplikacja?</a>
 
