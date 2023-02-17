@@ -1,6 +1,6 @@
-# DARE IT challenge portfolio - QA Manual Testing :mag:
+# [DARE IT challenge portfolio](https://www.dareit.io/challenges/qa-manual-testing) - QA Manual Testing :mag:
 
-<p align="justify">What is a challenge portfolio? This is a 7-week challenge organised by [DARE IT](https://www.dareit.io/challenges/qa-manual-testing), the result of which is the complete QA Manual testing project. Each week there were different tasks performed in weekly sprints. Throughout the course, I was able to ask questions to the mentors. During the challenge, I had the opportunity to learn how to use many tools such as Jira, Slack, Chrome DevTools, MySQL and ]Markdown.</p>
+<p align="justify">What is a challenge portfolio? This is a <b>7-week challenge</b> organised by DARE IT, the result of which is the complete <b>QA Manual testing project</b>. Each week there were different tasks performed in <b>weekly sprints</b>. Throughout the course, I was able to ask questions to the mentors. During the challenge, I had the opportunity to learn how to use many tools such as <b>Jira, Slack, Chrome DevTools, MySQL</b> and <b>Markdown</b>.</p>
 
 ### What have I learned during the challenge?
 
