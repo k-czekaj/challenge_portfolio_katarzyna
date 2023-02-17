@@ -1,10 +1,14 @@
 # DARE IT challenge portfolio - QA Manual Testing :mag:
 
-What is a challenge portfolio? This is a **7-week challenge organised by [DARE IT](https://www.dareit.io/challenges/qa-manual-testing)**, the result of which is the complete **QA Manual testing project**. Each week there were different tasks performed in **weekly sprints**. Throughout the course, I was able to ask questions to the mentors. During the challenge, I had the opportunity to learn how to use many tools such as **Jira, Slack, Chrome DevTools, MySQL** and **Markdown**.
+<p align="justify">What is a challenge portfolio? This is a 7-week challenge organised by [DARE IT](https://www.dareit.io/challenges/qa-manual-testing), the result of which is the complete QA Manual testing project. Each week there were different tasks performed in weekly sprints. Throughout the course, I was able to ask questions to the mentors. During the challenge, I had the opportunity to learn how to use many tools such as Jira, Slack, Chrome DevTools, MySQL and ]Markdown.</p>
 
 ### What have I learned during the challenge?
 
-:heavy_check_mark:testing web applications, :heavy_check_mark:testing mobile applications, :heavy_check_mark:using DevTools for testing, :heavy_check_mark:writing test cases, :heavy_check_mark:exploratory testing, :heavy_check_mark:bug reporting, :heavy_check_mark:creating a test report, :heavy_check_mark:using Jira to bug reporting, :heavy_check_mark:SQL
+<p align="justify">:heavy_check_mark: testing web applications :heavy_check_mark: testing mobile applications :heavy_check_mark: exploratory testing
+
+:heavy_check_mark: writing test cases :heavy_check_mark: using DevTools for testing :heavy_check_mark: bug reporting 
+
+:heavy_check_mark: creating a test report :heavy_check_mark: using Jira to bug reporting :heavy_check_mark: SQL</p>
 
 ### List of tasks that I completed during the challenge:
 
