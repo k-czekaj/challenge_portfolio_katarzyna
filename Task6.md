@@ -12,6 +12,7 @@
     - [Zad. 18. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).](#kropka8)
     - [Zad. 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał.](#kropka9)
     - [Zad. 20. Dodaj do tabeli customers nową klientkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa.](#kropka10)
+2. [Subtask 2 - test wiedzy](#subtask2)
 3. [Subtask 3 - stworzenie portfolio](#subtask3)
 
 ##  <a name="subtask1">Subtask 1 - Kilka zadań związanych z SQLem c.d. 👩‍💻 </a>
@@ -125,6 +126,12 @@ VALUES (7, 'Honia','Stuczka-Kucharska', 'honia@mail.com', 'Hoa')
 ```
 
 ![zadanie 20](https://user-images.githubusercontent.com/122294284/219464807-05bea634-d0ed-46d8-91be-0891f878a90d.png)
+
+##  <a name="subtask3">Subtask 2 - test wiedzy</a>
+
+[Wynik testu z wiedzy z Sylabusa ISTQB (quiz Écru)](http://getistqb.com/quiz-ecru/) :memo:
+
+/15
 
 ##  <a name="subtask3">Subtask 3 - stworzenie portfolio</a>
 
