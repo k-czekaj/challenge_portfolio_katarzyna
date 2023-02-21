@@ -131,7 +131,7 @@ VALUES (7, 'Honia','Stuczka-Kucharska', 'honia@mail.com', 'Hoa')
 
 [Wynik testu z wiedzy z Sylabusa ISTQB (quiz Écru)](http://getistqb.com/quiz-ecru/) :memo:
 
-/15
+14/15 :star:
 
 ##  <a name="subtask3">Subtask 3 - stworzenie portfolio</a>
 
