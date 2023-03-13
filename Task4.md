@@ -68,54 +68,66 @@
 
 <a name="pin1">❌ **CHAL-8** - Nie można wysłać zgłoszenia za pomocą formularza w aplikacji mobilnej</a>
 
-![2023-02-07_17h05_35](https://user-images.githubusercontent.com/122294284/217298366-92843d8f-489e-4b7f-9338-cb95d7b49543.png)
+![CHAL-8 1](https://user-images.githubusercontent.com/122294284/224794997-d4c43731-de75-4315-a822-be3b2e353734.png)
 
-![2023-02-07_17h05_55](https://user-images.githubusercontent.com/122294284/217298450-7af36c5b-e0dd-4c88-9105-17595194f7d6.png)
+![CHAL-8 2](https://user-images.githubusercontent.com/122294284/224795027-7c5ddfa9-f26a-4831-83b7-541efc1ba7e5.png)
+
+![CHAL-8 3](https://user-images.githubusercontent.com/122294284/224795068-c8c85f95-31b6-4c55-b0d5-7211e49b5c27.png)
 
 Załącznik:
 [Screenshot błędu CHAL-8 📸](https://drive.google.com/file/d/1EfXbwqjM0FF-Mm5FkMv0Ah4Tu9_RGdXx/view?usp=sharing)
 
 <a name="pin2">❌ **CHAL-9** - Użytkownik nie może zalogować się do aplikacji</a>
 
-![2023-02-07_15h36_59](https://user-images.githubusercontent.com/122294284/217298654-df04092f-4f2e-4253-81ac-568572276ca1.png)
+![CHAL-9 1](https://user-images.githubusercontent.com/122294284/224795111-8bb582b3-cdcd-4103-964f-b9ae86737b67.png)
 
-![2023-02-07_15h37_53](https://user-images.githubusercontent.com/122294284/217298731-f380195c-bd5a-4191-a65f-fc559cc89d51.png)
+![CHAL-9 2](https://user-images.githubusercontent.com/122294284/224795132-42de7b85-b21e-4dfb-ad0a-df31be1e364c.png)
+
+![CHAL-9 3](https://user-images.githubusercontent.com/122294284/224795142-fa75a49a-dcdf-47df-b525-22df11a22906.png)
 
 Załącznik:
 [Screenshot błędu CHAL-9 📸](https://drive.google.com/file/d/14RHrslh9UEvXlKIoYvIuMfxNpX9I-9gA/view?usp=sharing)
 
 <a name="pin3">❌ **CHAL-10** - Brak opisu pod podcastem 'Marie's Jam - Chyba się zakochałam w piłce nożnej'</a>
 
-![2023-02-07_17h08_51](https://user-images.githubusercontent.com/122294284/217299227-fee6e836-d624-445c-a8ec-546b105148a0.png)
+![CHAL-10 1](https://user-images.githubusercontent.com/122294284/224795214-c0147daf-ffd4-4ce1-b664-16f69f9abed4.png)
 
-![2023-02-07_17h09_13](https://user-images.githubusercontent.com/122294284/217299241-275e2ac1-ff92-4aa1-b002-f1c5c10a4678.png)
+![CHAL-10 2](https://user-images.githubusercontent.com/122294284/224795228-f4102e89-fd4d-4a84-8bc5-72cb9f82bb6e.png)
+
+![CHAL-10 2](https://user-images.githubusercontent.com/122294284/224795236-8a1dc651-8c07-40bc-82fc-9796330c34c2.png)
 
 Załącznik:
 [Screenshot błędu CHAL-10 📸](https://drive.google.com/file/d/1dtc7E3Avf9VxiQQnpw2b15Y3II-jrtJA/view?usp=sharing)
 
 <a name="pin4">❌ **CHAL-12** - Nie można odtworzyć materiałów wideo znajdujących się w aplikacji</a>
 
-![2023-02-07_17h11_01](https://user-images.githubusercontent.com/122294284/217299746-d982378b-e7aa-494b-aa72-4fdadfb327ee.png)
+![CHAL-12 1](https://user-images.githubusercontent.com/122294284/224795306-c86bd12f-aa84-499b-9700-140a12cfacb4.png)
 
-![2023-02-07_17h11_17](https://user-images.githubusercontent.com/122294284/217299761-b56e9018-6ac9-4937-9ae3-c93302d9c516.png)
+![CHAL-12 2](https://user-images.githubusercontent.com/122294284/224795314-204ce9cb-9b2e-4897-85bf-127186694d68.png)
+
+![CHAL-12 3](https://user-images.githubusercontent.com/122294284/224795326-3cb872ed-b8be-4505-9696-c4dcc442e1fb.png)
 
 Załącznik:
 [Screenshot błędu CHAL-12 📸](https://drive.google.com/file/d/1NDnfff2lXQxYsncei-VlhDbthP6xv_bF/view?usp=sharing)
 
 <a name="pin5">❌ **CHAL-13** - Przyciski przekierowujące do social mediów nie działają w aplikacji</a>
 
-![2023-02-07_17h12_53](https://user-images.githubusercontent.com/122294284/217300271-c2bf06d5-d8d3-4896-92ab-c4c9a95d9d94.png)
+![CHAL-13 1](https://user-images.githubusercontent.com/122294284/224795394-9050001e-be59-4bd0-ada8-2b37242822bc.png)
 
-![2023-02-07_17h13_15](https://user-images.githubusercontent.com/122294284/217300282-8c0f33b3-1c51-45be-9c23-3242ad21932a.png)
+![CHAL-13 2](https://user-images.githubusercontent.com/122294284/224795408-5705b99f-5ff4-4f94-9b89-5a42eec3ee68.png)
+
+![CHAL-13 3](https://user-images.githubusercontent.com/122294284/224795420-a51b4b3e-91b9-4f7b-bf5e-88655b483532.png)
 
 Załącznik:
 [Screenshot błędu CHAL-13 📸](https://drive.google.com/file/d/1KIRNbxBtrrEFMiUSy80excRPBpoxUunz/view?usp=sharing)
 
 <a name="pin6">❌ **CHAL-14** - Brak możliwości udostępniania informacji o redaktorze</a>
 
-![2023-02-07_17h14_49](https://user-images.githubusercontent.com/122294284/217300738-249027c8-e031-4c9d-9e85-352d05ad54a6.png)
+![CHAL-14 1](https://user-images.githubusercontent.com/122294284/224795482-6c68a8d2-61d1-41da-bf1d-d0b176613af7.png)
 
-![2023-02-07_17h15_03](https://user-images.githubusercontent.com/122294284/217300814-ad218a57-d675-497b-8f19-7b44ae18d4fb.png)
+![CHAL-14 2](https://user-images.githubusercontent.com/122294284/224795489-20c54af3-7dd4-4f30-a171-a2d461cbf539.png)
+
+![CHAL-14 3](https://user-images.githubusercontent.com/122294284/224795497-d64802c5-1d93-4d5b-b969-154a4fd2c52a.png)
 
 Załącznik:
 [Screenshot błędu CHAL-14 📸](https://drive.google.com/file/d/1GTj-2uJz1gV_OiL0ZQ9_MrRQuZ5tUYuj/view?usp=sharing)
